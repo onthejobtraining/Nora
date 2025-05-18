@@ -1,0 +1,449 @@
+{ 
+"common": { 
+"song_one": "গীত", 
+"song_other": "গীত", 
+"playlist_one": "প্লেলিস্ট", 
+"playlist_other": "প্লেলিস্ট", 
+"artist_one": "শিল্পী", 
+"artist_other": "শিল্পীসকল", 
+"album_one": "এলবাম", 
+"album_other": "এলবামসমূহ", 
+"genre_one": "ধৰণ", 
+"genre_other": "ধাৰাসমূহ", 
+"folder_one": "ফোল্ডাৰ", 
+"folder_other": "ফোল্ডাৰসমূহ", 
+"songWithCount_one": "{{count}} গীত", 
+"songWithCount_other": "{{count}} গীত", 
+"playlistWithCount_one": "{{count}} প্লেলিষ্ট", 
+"playlistWithCount_other": "{{count}} প্লেলিষ্টসমূহ", 
+"artistWithCount_one": "{{count}} শিল্পী", 
+"artistWithCount_other": "{{count}} শিল্পী", 
+"albumWithCount_one": "{{count}} এলবাম", 
+"albumWithCount_other": "{{count}} এলবামসমূহ", 
+"genreWithCount_one": "{{count}} ধাৰা", 
+"genreWithCount_other": "{{count}} ধাৰা", 
+"folderWithCount_one": "{{count}} ফোল্ডাৰ", 
+"folderWithCount_other": "{{count}} ফোল্ডাৰসমূহ", 
+"subFolderWithCount_one": "{{count}} উপ-ফোল্ডাৰ", 
+"subFolderWithCount_other": "{{count}} উপ-ফোল্ডাৰসমূহ", 
+
+"selectionWithCount_one": "{{count}} নিৰ্বাচিত কৰা হৈছে", 
+"selectionWithCount_other": "{{count}} নিৰ্বাচিত কৰা হৈছে", 
+
+"shownWithCount": "{{count}} দেখুওৱা হৈছে", 
+
+"unknownTitle": "অজ্ঞাত শিৰোনাম", 
+"unknownArtist": "অজ্ঞাত শিল্পী", 
+"unknownAlbum": "অজ্ঞাত এলবাম", 
+"unknownGenre": "অজ্ঞাত ধাৰা", 
+"unknownFolder": "অজ্ঞাত ফোল্ডাৰ", 
+"unknownLyricsProvider": "অজ্ঞাত গীতৰ কথা প্ৰদানকাৰী", 
+
+"songTitle": "গীতৰ শিৰোনাম", 
+"duration": "সময়", 
+"albumArtists": "গীত এলবাম শিল্পী", 
+"albumTrackNo": "এলবাম ট্ৰেক নম্বৰ", 
+"releasedYear": "মুক্তি বছৰ", 
+"songAddedOn": "গীত যোগ কৰা হৈছে", 
+"lastModifiedOn": "শেষবাৰৰ বাবে পৰিবৰ্তন কৰা হৈছে", 
+"sampleRate": "নমুনাৰ হাৰ", 
+"bitRate": "বিট্ৰেট", 
+"noOfAudioChannels": "অডিঅ' চেনেলৰ সংখ্যা", 
+"channelWithCount_one": "{{count}} চেনেল (একক)", 
+"channelWithCount_other": "{{count}} চেনেলসমূহ (ষ্টেৰিঅ')", 
+"songLocation": "গীতৰ স্থান", 
+"lyrics": "গীতৰ কথা", 
+"syncedLyrics": "সিঞ্চিত গীত", 
+"unsyncedLyrics": "অসিংক গীত", 
+
+"play": "প্লে", 
+"playNext": "পৰৱৰ্তী খেল", 
+"playNextAll": "পৰৱৰ্তী খেলিবলৈ সকলো যোগ কৰক", 
+"shuffleAndPlay": "শ্বাফল আৰু খেলা", 
+"shuffleAndPlayAll": "শুফল আৰু সকলো খেলা", 
+"playAll": "সকলো খেলক", 
+"addToQueue": "শাৰীত যোগ কৰক", 
+"removeFromQueue": "শাৰীৰ পৰা আঁতৰাওক", 
+"addSongsToQueue": "শাৰীত গীত যোগ কৰক", 
+"createAQueue": "এটা শাৰী সৃষ্টি কৰক", 
+"info": "তথ্য", 
+"select": "নিৰ্বাচন কৰক", 
+"unselect": "অনিৰ্বাচিত", 
+"selectAll": "সকলো নিৰ্বাচন কৰক", 
+"unselectAll": "সকলো নিৰ্বাচন নকৰিব", 
+"showAll": "সকলো দেখুৱাওক", 
+"cancel": "বাতিল কৰক", 
+"search": "সন্ধান", 
+"help": "সহায়", 
+"copy": "কপি", 
+
+"sortBy": "দ্বাৰা সজাওক", 
+"filterBy": "দ্বাৰা ফিল্টাৰ কৰক", 
+"moreOptions": "অধিক বিকল্প", 
+"title": "শিৰোনাম", 
+"sugggestion": "পৰামৰ্শ", 
+"hideSuggestion": "পৰামৰ্শ লুকুৱাওক", 
+"showSuggestion": "পৰামৰ্শ দেখুৱাওক", 
+"and": "আৰু", 
+"ignore": "আওকাণ কৰক", 
+"goBack": "পিছলৈ যাওক", 
+"saveArtwork": "শিল্পকৰ্ম সংৰক্ষণ কৰক", 
+"readMoreAboutTitle": "``{{title}}`" ৰ বিষয়ে অধিক পঢ়ক, 
+"doNotShowThisMessageAgain": "আকৌ দেখুৱাব নালাগে।", 
+"artistConflictResolved": "শিল্পীৰ সংঘাত সফলতাৰে সমাধান কৰা হৈছে।", 
+"featArtistSuggestionResolved": "শিল্পীসকলৰ পৰামৰ্শ সফলভাৱে সমাধান কৰা হৈছে।", 
+"hasInternet": "আপুনি ইণ্টাৰনেটৰ সৈতে সংযুক্ত।", 
+"noInternet": "আপুনি ইণ্টাৰনেটৰ সৈতে সংযুক্ত নহয়।", 
+"newUpdateAvailable": "নতুন এপ আপডেট উপলব্ধ।", 
+"checkingForUpdates": "এপ আপডেটৰ বাবে পৰীক্ষা কৰা হৈছে...", 
+"updateCheckError": "এপ আপডেটসমূহৰ বাবে পৰীক্ষা কৰাৰ সময়ত ত্ৰুটি ঘটিছিল।", 
+"updateCheckErrorNoInternet": "$t(সাধাৰণ.updateCheckError) $t(সাধাৰণ.কোনো ইণ্টাৰনেট)", 
+"optionDisabled": "এই বিকল্প নিষ্ক্ৰিয় কৰা হৈছে।", 
+"somethingWentWrong": "কিবা এটা ভুল হ'ল।", 
+"details": "বিৱৰণ", 
+"restartApp": "এপ পুনৰাৰম্ভ কৰক", 
+"ok": "ঠিক আছে", 
+"loading": "লোড কৰা হৈছে" 
+}, 
+
+"titleBar": { 
+"changeTheme": "থিম পৰিবৰ্তন কৰক", 
+"goBack": "পিছলৈ যাওক (Alt + Left-Arrow)", 
+"goHome": "ঘৰলৈ যাওক (Alt + ঘৰ)", 
+"goForward": "আগলৈ যাওক (Alt + Right-Arrow)", 
+
+"minimize": "নূন্যতম", 
+"maximize": "সৰ্বোচ্চ", 
+"close": "বন্ধ" 
+}, 
+
+"player": { 
+"goToMainPlayer": "মূল খেলুৱৈলৈ যাওক (Ctrl + N)", 
+"openInMiniPlayer": "মিনি প্লেয়াৰত খোলক (Ctrl + N)", 
+"openInFullScreen": "সম্পূৰ্ণ পৰ্দাত খোলক", 
+"likeDislike": "পছন্দ/অপছন্দ (Ctrl + H)", 
+"likeDislikeDisabled": "গানসমূহ পছন্দ/অপছন্দ নিষ্ক্ৰিয় কৰা হৈছে কাৰণ বৰ্তমান বাজি থকা গীতটো এটা অজ্ঞাত উৎসৰ পৰা আৰু পছন্দসমূহ সমৰ্থন নকৰে।", 
+"prevSong": "পূৰ্বৰ গীত (Ctrl + বাওঁ কাঁড় চিহ্ন)", 
+"playPause": "প্লে/বিৰতি (স্থান)", 
+"nextSong": "পৰৱৰ্তী গীত (Ctrl + ৰাইট এৰো)", 
+"lyrics": "গীত (Ctrl + L)", 
+"shuffle": "শ্বাফেল (Ctrl + S)", 
+"repeat": "পুনৰাবৃত্তি (Ctrl + T)", 
+"muteUnmute": "নিস্তব্ধ/আনমুট (Ctrl + M)", 
+"currentQueue": "বৰ্তমান শাৰী (Ctrl + Q)", 
+"adjustPlaybackSpeed": "প্লেবেক গতি সামঞ্জস্য কৰক", 
+"showCurrentQueue": "বৰ্তমানৰ শাৰী দেখুৱাওক",
+"showMiniPlayer": "মিনি প্লেয়াৰ দেখুৱাওক", 
+"otherSettings": "অন্য ছেটিংছ", 
+"upNext": "উপ পৰৱৰ্তী: ", 
+"closeUpNext": "'উপ পৰৱৰ্তী' বন্ধ কৰক", 
+"by": "দ্বাৰা", 
+
+"errorTitle": "প্লেয়াৰত এটা ত্ৰুটি সংঘটিত হৈছে।", 
+"errorMessage": "$t(player.errorTitle)<br /> এইটো এটা ক্ষতিগ্ৰস্ত গীত বজাবলৈ চেষ্টা কৰাৰ ফল হ'ব পাৰে। <details/>", 
+"noErrorMessage": "কোনো ভুল বাৰ্তা সৃষ্টি কৰা হোৱা নাই" 
+}, 
+
+"sortTypes": { 
+"aToZ": "এৰ পৰা জেডলৈ", 
+"zToA": "Zৰ পৰা Aলৈ", 
+"dateAddedAscending": "নতুনতম", 
+"dateAddedDescending": "আটাইতকৈ পুৰণি", 
+"releasedYearAscending": "মুক্ত বছৰ (আৰোহী)", 
+"releasedYearDescending": "মুক্ত কৰা বছৰ (অৱনমিত)", 
+"allTimeMostListened": "সৰ্বাধিক শুনা (সকলো সময়ত)", 
+"allTimeLeastListened": "কম-শুনা (সকলো সময়ত)", 
+"monthlyMostListened": "সৰ্বাধিক শুনা (এই মাহত)", 
+"monthlyLeastListened": "কম-শুনা (এই মাহত)", 
+"artistNameAscending": "শিল্পীৰ নাম (A ৰ পৰা Z)", 
+"artistNameDescending": "শিল্পীৰ নাম (Z ৰ পৰা A)", 
+"albumNameAscending": "এলবামৰ নাম (A ৰ পৰা Z)", 
+"albumNameDescending": "এলবামৰ নাম (Z ৰ পৰা A লৈ)", 
+"noOfSongsDescending": "গীতৰ সৰ্বোচ্চ পৰিমাণ", 
+"noOfSongsAscending": "গীতৰ সৰ্বনিম্ন পৰিমাণ", 
+"blacklistedFolders": "ব্লেকলিষ্টেড ফোল্ডাৰসমূহ", 
+"whitelistedFolders": "শ্বেতস্থানীয় ফোল্ডাৰসমূহ", 
+"mostLovedDescending": "সৰ্বাধিক প্ৰিয়", 
+"mostLovedAscending": "কম-প্ৰিয়", 
+"trackNoAscending": "ট্ৰেক নম্বৰ (আৰোহী)", 
+"trackNoDescending": "ট্ৰেক নম্বৰ (অৱনমিত)", 
+"addedOrder": "যোগ কৰা হৈছে" 
+}, 
+
+"filterTypes": { 
+"notSelected": "নিৰ্বাচিত হোৱা নাই", 
+"blacklistedSongs": "ব্ল্যাকলিস্টেড গান", 
+"whitelistedSongs": "বগা গান", 
+"favorites": "প্ৰিয়" 
+}, 
+
+"equalizerPresets": { 
+"custom": "কাষ্টম", 
+"flat": "ফ্লেট", 
+"acoustic": "একাউষ্টিক", 
+"bassBooster": "বেছ বুষ্টাৰ", 
+"bassReducer": "বেছ হ্ৰাসকাৰী", 
+"classical": "ক্লাছিকেল", 
+"club": "ক্লাব", 
+"dance": "নৃত্য", 
+"deep": "গভীৰ", 
+"electronic": "ইলেক্ট্ৰনিক", 
+"hipHop": "হিপ হপ", 
+"jazz": "জাজ", 
+"latin": "লেটিন", 
+"live": "লাইভ", 
+"loudness": "উচ্চস্বৰ", 
+"lounge": "লাউঞ্জ", 
+"metal": "ধাতু", 
+"piano": "পিয়ানো", 
+"pop": "পপ", 
+"reggae": "ৰেগে", 
+"rnb": "ৰনবি", 
+"rock": "ৰক", 
+"ska": "স্কা", 
+"smallSpeakers": "সৰু বক্তা", 
+"soft": "কোমল", 
+"softRock": "কোমল শিলা", 
+"spokenWord": "কথিত শব্দ", 
+"techno'": "টেকন'", 
+"trebleBooster": "ট্ৰেবল বুষ্টাৰ", 
+"trebleReducer": "ট্ৰেবল হ্ৰাসক", 
+"vocalBooster": "কণ্ঠ বুষ্টাৰ" 
+}, 
+
+"song": { 
+"showInFileExplorer": "ফাইল এক্সপ্লোৰাৰত দেখুৱাওক", 
+"artwork": "গীত শিল্পকৰ্ম", 
+"selectedSongCount": "{{count}} নিৰ্বাচিত $t(সাধাৰণ.গীত, {\"গণনা\":{{গণনা}}})", 
+"likeSong": "প্ৰিয়ত যোগ কৰক", 
+"unlikeSong": "প্ৰিয়ৰ পৰা আঁতৰাওক", 
+"toggleLikeSongs": "প্ৰিয়ৰ পৰা গীত যোগ/আঁতৰা", 
+"addToPlaylists": "প্লেলিষ্ট(সমূহ)ত যোগ কৰক", 
+"goToAlbum": "এলবামলৈ যাওক", 
+"editSongTags": "গীতৰ ট্যাগ সম্পাদনা কৰক", 
+"reparseSong": "গীত পুনৰ বিশ্লেষণ কৰক", 
+"blacklistSong_one": "ব্ল্যাকলিস্ট গান", 
+"blacklistSong_other": "ব্ল্যাকলিস্ট গান", 
+"deblacklist": "ব্লেকলিষ্টৰ পৰা পুনৰুদ্ধাৰ কৰক", 
+"delete": "চিস্টেমৰ পৰা মচি পেলাওক", 
+"playingNext": "পৰৱৰ্তী খেলা", 
+"playingNow": "এতিয়া খেলি আছে", 
+"blacklisted": "ব্লেকলিষ্টেড", 
+"likedThisSong": "আপুনি এই গানটো ভাল লাগিল", 
+"dislikedThisSong": "আপুনি এই গানটো কৰা নাছিল"। 
+}, 
+
+"artist": { 
+"playAllSongs": "সকলো গান বজাওক", 
+"toggleLikeArtists": "প্ৰিয়ৰ পৰা শিল্পী যোগ/আঁতৰা", 
+"likeArtist": "শিল্পী যোগ কৰক প্ৰিয়ত", 
+"dislikeArtist": "প্ৰিয়ৰ পৰা শিল্পী আঁতৰাওক", 
+"selectedArtistCount": "{{count}} নিৰ্বাচিত $t(সাধাৰণ.শিল্পী, {\"গণনা\":{{গণনা}}})" 
+}, 
+
+"folder": { 
+"toggleBlacklistFolder": "ব্লেকলিষ্ট ফোল্ডাৰ টগল কৰক", 
+"blacklistFolder": "ব্লেকলিষ্ট ফোল্ডাৰ", 
+"selectedFolderCount": "{{count}} নিৰ্বাচিত $t(সাধাৰণ.ফোল্ডাৰ, {\"গণনা\":{{গণনা}}})", 
+"selectedParentFolderCount_one": "{{count}} নিৰ্বাচিত পিতৃ ফোল্ডাৰ", 
+"selectedParentFolderCount_other": "{{count}} নিৰ্বাচিত পিতৃ ফোল্ডাৰসমূহ", 
+"directoryCount_one": "{{count}} পঞ্জিকা", 
+"directoryCount_other": "{{count}} ডাইৰেকটৰিসমূহ", 
+"selectedDirectoryCount_one": "{{count}} নিৰ্বাচিত পঞ্জিকা", 
+"selectedDirectoryCount_other": "{{count}} নিৰ্বাচিত পঞ্জিকাসমূহ" 
+}, 
+
+"playlist": { 
+"changeArtwork": "শিল্পকর্ম পরিবর্তন", 
+"addArtwork": "শিল্পকৰ্ম যোগ কৰক", 
+"playlistArtworkUpdateSuccess": "প্লেলিষ্ট আৰ্টৱৰ্ক সফলতাৰে আপডেট কৰা হৈছে।", 
+"renamePlaylist": "প্লেলিস্ট পুনৰনাম", 
+"exportPlaylist": "প্লেলিষ্ট ৰপ্তানি কৰক", 
+"deleteSelectedPlaylists": "নিৰ্বাচিত প্লেলিষ্ট(সমূহ) মচি পেলাওক", 
+"deletePlaylist_one": "প্লেলিষ্ট মচি পেলাওক", 
+"deletePlaylist_other": "প্লেলিষ্টসমূহ মচি পেলাওক", 
+"selectedPlaylistCount": "{{count}} নিৰ্বাচিত $t(সাধাৰণ.প্লেলিষ্ট, {\"গণনা\":{{গণনা}}})", 
+"empty": "এই প্লেলিষ্টটো খালী যেন লাগে।"
+},
+
+"album": { 
+"selectedAlbumCount": "{{count}} নিৰ্বাচিত $t(সাধাৰণ.এলবাম, {\"গণনা\":{{গণনা}}})" 
+}, 
+
+"genre": { 
+"selectedGenreCount": "{{count}} নিৰ্বাচন কৰা হৈছে $t(common.genre, {\"count\":{{count}}})" 
+}, 
+
+"homePage": { 
+"empty": "ইয়াত একো নাই..", 
+"loading": "ধৰি ৰাখক। আমি আপোনাৰ বাবে সকলো সাজু কৰি আছো...", 
+"listenMoreToShowMetrics": "অতিৰিক্ত মেট্ৰিক্স দেখুৱাবলৈ অধিক গীত শুনক।", 
+
+"recentlyAddedSongs": "শেহতীয়াকৈ যোগ কৰা গীত", 
+"recentlyPlayedSongs": "শেহতীয়াকৈ বজোৱা গান", 
+"recentArtists": "শেহতীয়া শিল্পী", 
+"mostLovedSongs": "সৰ্বাধিক প্ৰিয় গীত", 
+"mostLovedArtists": "সৰ্বাধিক প্ৰিয় শিল্পী", 
+
+"openSongsWithNewestSortOption": "'নতুন' সজাই বিকল্পৰ সৈতে 'গীত' খোলে।", 
+"openPlaybackHistory": "'addedOrder' সজাই বিকল্পৰ সৈতে 'History' প্লেলিষ্ট খোলে", 
+"openFavoritesWithAllTimeMostListenedSortOption": "'AllTimeMostListened' সজাই বিকল্পৰ সৈতে 'প্ৰিয়' প্লেলিষ্ট খোলে", 
+
+"noSongsAvailable": "কোনো গান উপলব্ধ", 
+"stayCalm": "শান্ত হৈ থাকক"। 
+}, 
+
+"searchPage": { 
+"addFolder": "ফোল্ডাৰ যোগ কৰক", 
+"enablePredictiveSearch": "ভৱিষ্যদ্বাণীমূলক সন্ধান সামৰ্থবান কৰক", 
+"disablePredictiveSearch": "ভৱিষ্যদ্বাণীমূলক সন্ধান নিষ্ক্ৰিয় কৰক", 
+"searchForAnything": "যিকোনো বস্তুৰ বাবে সন্ধান কৰক", 
+"searchForAnythingInLibrary": "আপোনাৰ লাইব্ৰেৰীত যিকোনো বস্তু সন্ধান কৰক", 
+"separateKeywords": "সন্ধান কৰাৰ সময়ত মূল শব্দ পৃথক কৰিবলৈ ' ; ' ব্যৱহাৰ কৰক।", 
+"allFilter": "সকলো", 
+"mostRelevant": "সৰ্বাধিক প্ৰাসংগিক", 
+"resultCount_one": "{{count}} ফলাফল", 
+"resultCount_other": "{{count}} ফলাফল", 
+"resultAndVisibleCount_other": "{{count}} ফলাফল ($t(common.shownWithCount, {\"count\":{{noVisible}}}))", 
+"noResults": "আপুনি বিচৰা বস্তুৰ লগত মিল থকা একো নাই।", 
+"recentSearchResultTooltipLabel": "'{{value}}'ৰ বাবে সন্ধান কৰক", 
+"showingResultsFor": "<span>'{{query}}'</span>ৰ বাবে ফলাফল দেখুৱা হৈছে", 
+"showingResultsForWithFilter": "<span>{{filter}}</span> ত <span>'{{query}}'</span> ৰ বাবে ফলাফল দেখুৱা হৈছে", 
+
+"a": "যিকোনো বস্তু বিচাৰিব" 
+}, 
+
+"songsPage": { 
+"loading": "ধৰি ৰাখক। আমি আপোনাৰ বাবে সকলো সাজু কৰি আছো...", 
+"empty": "ইয়াত একো নাই.." 
+}, 
+
+"artistsPage": { 
+"empty": "ইয়াত একো নাই..." 
+}, 
+
+"foldersPage": { 
+"addFolder": "ফোল্ডাৰ যোগ কৰক", 
+"musicFolders": "সংগীত ফোল্ডাৰসমূহ", 
+"empty": "আপোনাৰ লাইব্ৰেৰীত কোনো ফোল্ডাৰ যোগ কৰা হোৱা নাই।" 
+}, 
+
+"playlistsPage": { 
+"createNewPlaylist": "নতুন প্লেলিস্ট সৃষ্টি কৰক", 
+"importPlaylist": "এটা প্লেলিষ্ট আমদানি কৰক", 
+"addPlaylist": "এটা প্লেলিষ্ট যোগ কৰক", 
+"removeFromThisPlaylist": "এই প্লেলিষ্টৰ পৰা আঁতৰাওক", 
+"removeSongFromPlaylistSuccess": "`{{title}}` এই প্লেলিষ্টৰ পৰা আঁতৰোৱা হৈছে", 
+"createdOn": "{{val, datetime}} ত সৃষ্টি কৰা হৈছে", 
+"clearSongHistoryConfirm": "গীতৰ ইতিহাস পৰিষ্কাৰ কৰক", 
+"clearSongHistoryConfirmNotice": "আপুনি নিশ্চিত নেকি যে আপুনি আপোনাৰ গীতৰ ইতিহাস পৰিষ্কাৰ কৰিব বিচাৰে? এই কাৰ্য্য বাতিল কৰিব নোৱাৰি।", 
+"clearSongHistorySuccess": "আপোনাৰ গীতৰ ইতিহাস সফলতাৰে পৰিষ্কাৰ কৰা হৈছে।" 
+}, 
+
+"albumsPage": { 
+"empty": "ইয়াত একো নাই..." 
+}, 
+
+"genresPage": { 
+"empty": "ইয়াত একো নাই..." 
+}, 
+
+"settingsPage": { 
+"settings": "ছেটিংছ", 
+
+"appearance": "আভাস", 
+"changeTheme": "আপোনাৰ পছন্দ অনুসৰি এপ্লিকেচনৰ থিম সলনি কৰক।", 
+"lightTheme": "লাইট থিম", 
+"darkTheme": "ডাৰ্ক থিম", 
+"systemTheme": "চিস্টেম থিম", 
+
+"enableImageBasedDynamicThemes": "গতিশীল থিম সামৰ্থবান", 
+"enableImageBasedDynamicThemesDescription": "বৰ্তমান বাজি থকা গীতৰ কভাৰ ছবিৰ থিমৰ ওপৰত ভিত্তি কৰি গতিশীলভাৱে এপ থিম পৰিবৰ্তন কৰক", 
+
+"language": "ভাষা", 
+"languageDescription": "আপুনি Nora প্ৰদৰ্শিত হ'ব বিচৰা ভাষা নিৰ্বাচন কৰক।", 
+
+"audioPlayback": "অডিঅ' প্লেবেক", 
+"showRemainingSongDuration": "বাকী গীতৰ সময়সীমা দেখুৱাওক", 
+"showRemainingSongDurationDescription": "অবিকল্পিত গীতৰ সময়সীমাৰ পৰিবৰ্তে গীতৰ বাকী সময় দেখুৱায়।", 
+"playbackRate": "প্লেবেক গতি", 
+"changePlaybackRate": "প্লেয়াৰৰ অবিকল্পিত প্লেবেক গতি সলনি কৰক।", 
+"resetPlaybackRate": "1x লৈ পুনৰায় সেট কৰক", 
+"seekbarScrollInterval": "অডিঅ' ছিক বাৰ আৰু ভলিউম ছিক বাৰৰ ওপৰত স্ক্ৰল কৰাৰ সময়ত বৃদ্ধিৰ পৰিমাণ সলনি কৰক।", 
+"second": "দ্বিতীয়", 
+"second_other": "ছেকেণ্ড", 
+
+"accounts": "একাউন্টসমূহ", 
+"integrateLastFm": "নোৰাৰ সৈতে Last.fm সংহতি কৰক।", 
+"lastFmLogo": "LastFM লোগো", 
+"lastFmConnected": "LastFM সংযোগ কৰা হৈছে", 
+"lastFmNotConnected": "LastFM সংযোগ কৰা হোৱা নাই", 
+"loggedInAs": "এইদৰে লগ ইন কৰা হৈছে", 
+"lastFmDescription1": "স্ক্ৰ'বলিং সামৰ্থবান কৰিবলে Last.fm ৰ সৈতে সংযোগ কৰক।", 
+"lastFmDescription2": "স্ক্ৰ'বলিং হৈছে ব্যৱহাৰকাৰীয়ে শুনি থকা সংগীতৰ বিষয়ে তথ্য প্ৰেৰণ কৰাৰ এটা উপায়।", 
+"lastFmDescription3": "যেতিয়াই আপুনি এটা গীত শুনিব, Last.fm এ সেই গীতটো “Scrobbles” কৰে আৰু আপোনাৰ একাউণ্টত যোগ কৰে।", 
+"lastFmDescription4": "এই বৈশিষ্ট্যৰ বাবে এটা ইণ্টাৰনেট সংযোগৰ প্ৰয়োজন।", 
+"authenticateAgain": "আকৌ প্ৰমাণীকৰণ কৰক", 
+"loginInBrowser": "ব্ৰাউজাৰৰ জৰিয়তে প্ৰৱেশ কৰক",
+"loginInBrowser": "ব্ৰাউজাৰৰ জৰিয়তে প্ৰৱেশ কৰক", 
+"scrobblingDescription": "আপুনি কেনেকৈ গীত শুনে তাৰ সৈতে জড়িত তথ্য প্ৰেৰণ কৰিবলৈ Last.fm Scrobbling সামৰ্থবান কৰক।", 
+"enableScrobbling": "Last.fm Scrobbling সামৰ্থবান কৰক", 
+"sendFavoritesToLastFmDescription": "যেতিয়া আপুনি গান ভাল পায়/অপছন্দ কৰে তেতিয়া Last.fm লৈ প্ৰিয় তথ্য প্ৰেৰণ কৰক।", 
+"sendFavoritesToLastFm": "প্ৰিয় তথ্য প্ৰেৰণ কৰক", 
+"sendNowPlayingToLastFmDescription": "বৰ্তমানে বজাই থকা গীতৰ তথ্য Last.fm লৈ স্বয়ংক্ৰিয়ভাৱে প্ৰেৰণ কৰক যেতিয়া আপুনি এটা গীত বজাবলৈ আৰম্ভ কৰে।", 
+"sendNowPlayingToLastFm": "বৰ্তমান বাজি থকা গীতৰ তথ্য প্ৰেৰণ কৰক", 
+"enableDiscordRpcDescription": "নোৰাৰ সৈতে ডিচকৰ্ড ৰিচ উপস্থিতি সংহতি কৰক", 
+"enableDiscordRpc": "ডিচকৰ্ড সমৃদ্ধ উপস্থিতি সামৰ্থবান কৰক", 
+
+"doNotSaveLyricsAutomatically": "গীতৰ কথা স্বয়ংক্ৰিয়ভাৱে সংৰক্ষণ নকৰিব", 
+"syncedLyricsOnly": "কেৱল সমন্বিত গীত", 
+"saveEitherLyrics": "সিন্সিং বা অসিংক গীত", 
+"lyrics": "গীত", 
+"enableMusixmatchLyricsDescription": "Musixmatch Lyrics সামৰ্থবান কৰক, যি আপোনাৰ গীতৰ বাবে অন-ডিমাণ্ডৰ বাবে সিঙ্ক আৰু অচিংক কৰা গীত প্ৰদান কৰে।", 
+"musixmatchDisclaimerNotice": "এই বৈশিষ্ট্য সামৰ্থবান আৰু ব্যৱহাৰ কৰাৰ অৰ্থ হ'ল আপুনি <Button>Musixmatch Lyrics Disclaimer</Button> গ্ৰহণ কৰিবলৈ সন্মত, আৰু গ্ৰহণ কৰে।", 
+"editMusixmatchSettings": "Musixmatch ছেটিংছ সম্পাদনা কৰক", 
+"enableMusixmatch": "Musixmatch গীত সামৰ্থবান", 
+"musixmatchEnabled": "Musixmatch গীতৰ কথা সক্ৰিয় কৰা হৈছে", 
+"saveLyricsAutomaticallyDescription": "গীতৰ কথা পৃষ্ঠাত আনিলে স্বয়ংক্ৰিয়ভাৱে গীতৰ কথা সংৰক্ষণ কৰাৰ এটা বিকল্প নিৰ্বাচন কৰক।", 
+"saveLyricsAutomaticallyInfo": "বৰ্তমানৰ গীতটো শেষ হোৱাৰ পিছত স্বয়ংক্ৰিয়ভাৱে ডাউনলোড কৰা গীতৰ কথাসমূহ সংৰক্ষণ কৰা হ'ব যাতে কোনো ধৰণৰ দুৰ্নীতি নহয়।", 
+"saveLyricsInLrcFilesDescription": "মেটাডাটা সম্পাদনা সমৰ্থন কৰা গীতসমূহৰ বাবে LRC ফাইলসমূহত গীতৰ কথা সংৰক্ষণ কৰা সামৰ্থবান কৰক। 
+"saveLyricsInLrcFiles": "সমৰ্থিত গীতৰ বাবে LRC ফাইলসমূহত গীতৰ কথাও সংৰক্ষণ কৰক", 
+"autoTranslateLyricsDescription": "আপোনাৰ নিৰ্বাচিত ভাষালৈ গীতৰ কথাৰ স্বয়ংক্ৰিয় অনুবাদ সামৰ্থবান কৰক। গীতৰ কথা আপোনাৰ নিৰ্বাচিত ভাষাৰ সৈতে একে ভাষা থাকিলেও গীতৰ কথা স্বয়ংক্ৰিয়ভাৱে অনুবাদ কৰা হ'ব।", 
+"autoTranslateLyrics": "অটো অনুবাদ গীত", 
+"autoConvertLyricsDescription": "সমৰ্থিত গীতৰ কথাসমূহ লেটিন আখৰলৈ স্বয়ংক্ৰিয় ৰূপান্তৰ সামৰ্থবান কৰক। বৰ্তমান, Nora-এ জাপানী, চীনা, আৰু কোৰিয়ান গীতৰ কথাবোৰ নিজ নিজ ৰোমানাইজেচন ব্যৱস্থালৈ ৰূপান্তৰ কৰাটো সমৰ্থন কৰে।", 
+"autoConvertLyrics": "অটো ৰূপান্তৰ গীত", 
+"lrcFileCustomSaveLocationDescription": "গীতৰ LRC ফাইলসমূহ সংৰক্ষণ কৰিবলে এটা স্বনিৰ্বাচিত অৱস্থান নিৰ্ব্বাচন কৰক যদি আপুনি সিহতক আপেক্ষিক গীতৰ সৈতে একেটা ফোল্ডাৰত সংৰক্ষণ কৰিব নিবিচাৰে।", 
+"selectedCustomLocation": "নিৰ্বাচিত স্বনিৰ্বাচিত অৱস্থান", 
+"setCustomLocation": "স্বনিৰ্বাচিত অৱস্থান নিৰ্ধাৰণ কৰক", 
+
+"equalizer": "ইকুৱেলাইজাৰ", 
+"reset": "পুনৰ সেট কৰক", 
+
+"defaultPage": "অবিকল্পিত পৃষ্ঠা", 
+"changeDefaultPageDescription": "আপুনি এপ খোলাৰ সময়ত চাব বিচৰা অবিকল্পিত পৃষ্ঠা সলনি কৰক।", 
+
+"preferences": "পছন্দসমূহ", 
+"songIndexingDescription": "পৃষ্ঠাত গীতসমূহৰ সূচীকৰণ সামৰ্থবান কৰে, গীতসমূহ টেবত প্ৰতিটো গীতত এটা সংখ্যা যোগ কৰি।", 
+"enableSongIndexing": "গীতৰ সূচী সামৰ্থবান", 
+"showTrackNumberAsSongIndexDescription": "এলবাম পৃষ্ঠাত যেতিয়া গীতৰ সন্মুখত ট্ৰেক নম্বৰ দেখুৱাওক।", 
+"showTrackNumberAsSongIndex": "গীতৰ সূচী হিচাপে ট্ৰেক নম্বৰ দেখুৱাওক", 
+"showArtistArtworkNearSongControlsDescription": "গীত নিয়ন্ত্ৰণ পেনেলত গীতৰ শিৰোনামৰ কাষত শিল্পীৰ নামৰ কাষত শিল্পীৰ শিল্পকৰ্ম দেখুৱায়।", 
+"showArtistArtworkNearSongControls": "উপলব্ধ শিল্পী কলাকৰ্মসমূহ তেওঁলোকৰ নামৰ কাষত দেখুৱাওক (তলৰ বাওঁফালে),"। 
+"disableBackgroundArtworksDescription": "কিছুমান পৃষ্ঠাৰ পটভূমিত দেখুওৱা বৃহৎ আৰ্টৱৰ্ক নিষ্ক্ৰিয় কৰে।", 
+"disableBackgroundArtworks": "পটভূমি শিল্পকৰ্ম নিষ্ক্ৰিয় কৰক", 
+"playlistArtworksDescription": "গীতৰ কভাৰৰ পৰা নিৰ্মিত শিল্পকৰ্মৰ আচৰণ সলনি কৰক।", 
+"enablePlaylistArtworks": "প্লেলিষ্টত গীতৰ কভাৰৰ পৰা নিৰ্মিত শিল্পকৰ্ম সামৰ্থবান কৰক", 
+"shuffleArtworkFromSongCovers": "গীতৰ কভাৰৰ পৰা নিৰ্মিত আৰ্টৱৰ্ক শ্বাফলিং সামৰ্থবান কৰক। (আৰ্টৱৰ্কসমূহ প্ৰতিবাৰ এটা পৃষ্ঠা সতেজ হোৱাৰ সময়ত শ্বাফল কৰে।)", 
+
+"accessibility": "অভিগম্যতা", 
+"reducedMotionDescription": "এপত দেখা দিয়া এনিমেচন আঁতৰায়। ইয়াৰ দ্বাৰা এপটোৰ মসৃণতাও হ্ৰাস পাব।", 
+"enableReducedMotion": "হ্ৰাস কৰা গতি সামৰ্থবান", 
+
+"performance": "পাৰফৰমেন্স", 
+"removeAnimationOnBatteryDescription": "আপোনাৰ চিস্টেম বেটাৰী শক্তিত থকাৰ সময়ত এপত এনিমেচনসমূহ আঁতৰায়।", 
+"removeAnimationOnBattery": "বেটাৰী শক্তিত থকাৰ সময়ত এনিমেচন আঁতৰাওক।", 
+"allowToPreventScreenSleepingDescription": "নোৰাক গীতৰ কথা প্ৰদৰ্শনৰ দৰে ব্যৱহাৰকাৰীৰ কোনো কাৰ্য্যকলাপ নথকা পৰিস্থিতিত প্ৰদৰ্শনক শুবলৈ যোৱাত বাধা দিবলৈ অনুমতি দিয়ক।", 
+"allowToPreventScreenSleeping": "ডিছপ্লে শুই যোৱাৰ পৰা বাধা দিয়াৰ অনুমতি দিয়ক।", 
+
+"startupAndWindowCustomization": "আৰম্ভণি আৰু উইণ্ড'জ ছেটিংছ",
+
