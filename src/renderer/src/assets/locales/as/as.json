@@ -227,10 +227,10 @@
 "deblacklist": "ব্লেকলিষ্টৰ পৰা পুনৰুদ্ধাৰ কৰক", 
 "delete": "চিস্টেমৰ পৰা মচি পেলাওক", 
 "playingNext": "পৰৱৰ্তী খেলা", 
-"playingNow": "এতিয়া খেলি আছে", 
+"playingNow": "এতিয়া বাজী আছে", 
 "blacklisted": "ব্লেকলিষ্টেড", 
-"likedThisSong": "আপুনি এই গানটো ভাল লাগিল", 
-"dislikedThisSong": "আপুনি এই গানটো কৰা নাছিল"। 
+"likedThisSong": "আপুনি এই গানটো ভাল পালে", 
+"dislikedThisSong": "আপুনি এই গানটো কৰা নাছিল"
 }, 
 
 "artist": { 
