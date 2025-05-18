@@ -290,7 +290,7 @@
 "openFavoritesWithAllTimeMostListenedSortOption": "'AllTimeMostListened' সজাই বিকল্পৰ সৈতে 'প্ৰিয়' প্লেলিষ্ট খোলে", 
 
 "noSongsAvailable": "কোনো গান উপলব্ধ", 
-"stayCalm": "শান্ত হৈ থাকক"। 
+"stayCalm": "শান্ত হৈ থাকক"
 }, 
 
 "searchPage": { 
@@ -428,7 +428,7 @@
 "showTrackNumberAsSongIndexDescription": "এলবাম পৃষ্ঠাত যেতিয়া গীতৰ সন্মুখত ট্ৰেক নম্বৰ দেখুৱাওক।", 
 "showTrackNumberAsSongIndex": "গীতৰ সূচী হিচাপে ট্ৰেক নম্বৰ দেখুৱাওক", 
 "showArtistArtworkNearSongControlsDescription": "গীত নিয়ন্ত্ৰণ পেনেলত গীতৰ শিৰোনামৰ কাষত শিল্পীৰ নামৰ কাষত শিল্পীৰ শিল্পকৰ্ম দেখুৱায়।", 
-"showArtistArtworkNearSongControls": "উপলব্ধ শিল্পী কলাকৰ্মসমূহ তেওঁলোকৰ নামৰ কাষত দেখুৱাওক (তলৰ বাওঁফালে),"। 
+"showArtistArtworkNearSongControls": "উপলব্ধ শিল্পী কলাকৰ্মসমূহ তেওঁলোকৰ নামৰ কাষত দেখুৱাওক (তলৰ বাওঁফালে)", 
 "disableBackgroundArtworksDescription": "কিছুমান পৃষ্ঠাৰ পটভূমিত দেখুওৱা বৃহৎ আৰ্টৱৰ্ক নিষ্ক্ৰিয় কৰে।", 
 "disableBackgroundArtworks": "পটভূমি শিল্পকৰ্ম নিষ্ক্ৰিয় কৰক", 
 "playlistArtworksDescription": "গীতৰ কভাৰৰ পৰা নিৰ্মিত শিল্পকৰ্মৰ আচৰণ সলনি কৰক।", 
