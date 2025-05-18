@@ -88,7 +88,7 @@
 "ignore": "আওকাণ কৰক", 
 "goBack": "পিছলৈ যাওক", 
 "saveArtwork": "শিল্পকৰ্ম সংৰক্ষণ কৰক", 
-"readMoreAboutTitle": "``{{title}}`" ৰ বিষয়ে অধিক পঢ়ক, 
+"readMoreAboutTitle": "`{{title}}` ৰ বিষয়ে অধিক পঢ়ক", 
 "doNotShowThisMessageAgain": "আকৌ দেখুৱাব নালাগে।", 
 "artistConflictResolved": "শিল্পীৰ সংঘাত সফলতাৰে সমাধান কৰা হৈছে।", 
 "featArtistSuggestionResolved": "শিল্পীসকলৰ পৰামৰ্শ সফলভাৱে সমাধান কৰা হৈছে।", 
@@ -406,7 +406,7 @@
 "musixmatchEnabled": "Musixmatch গীতৰ কথা সক্ৰিয় কৰা হৈছে", 
 "saveLyricsAutomaticallyDescription": "গীতৰ কথা পৃষ্ঠাত আনিলে স্বয়ংক্ৰিয়ভাৱে গীতৰ কথা সংৰক্ষণ কৰাৰ এটা বিকল্প নিৰ্বাচন কৰক।", 
 "saveLyricsAutomaticallyInfo": "বৰ্তমানৰ গীতটো শেষ হোৱাৰ পিছত স্বয়ংক্ৰিয়ভাৱে ডাউনলোড কৰা গীতৰ কথাসমূহ সংৰক্ষণ কৰা হ'ব যাতে কোনো ধৰণৰ দুৰ্নীতি নহয়।", 
-"saveLyricsInLrcFilesDescription": "মেটাডাটা সম্পাদনা সমৰ্থন কৰা গীতসমূহৰ বাবে LRC ফাইলসমূহত গীতৰ কথা সংৰক্ষণ কৰা সামৰ্থবান কৰক। 
+"saveLyricsInLrcFilesDescription": "মেটাডাটা সম্পাদনা সমৰ্থন কৰা গীতসমূহৰ বাবে LRC ফাইলসমূহত গীতৰ কথা সংৰক্ষণ কৰা সামৰ্থবান কৰক।"
 "saveLyricsInLrcFiles": "সমৰ্থিত গীতৰ বাবে LRC ফাইলসমূহত গীতৰ কথাও সংৰক্ষণ কৰক", 
 "autoTranslateLyricsDescription": "আপোনাৰ নিৰ্বাচিত ভাষালৈ গীতৰ কথাৰ স্বয়ংক্ৰিয় অনুবাদ সামৰ্থবান কৰক। গীতৰ কথা আপোনাৰ নিৰ্বাচিত ভাষাৰ সৈতে একে ভাষা থাকিলেও গীতৰ কথা স্বয়ংক্ৰিয়ভাৱে অনুবাদ কৰা হ'ব।", 
 "autoTranslateLyrics": "অটো অনুবাদ গীত", 
