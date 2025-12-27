@@ -1,0 +1,1119 @@
+{
+  "common": {
+    "song_one": "मेथाइ",
+    "song_other": "मेथाइफोर",
+    "playlist_one": "प्लेलिष्ट",
+    "playlist_other": "प्लेलिष्टफोर",
+    "artist_one": "आर्टिष्ट",
+    "artist_other": "आर्टिष्टफोर",
+    "album_one": "एल्बाम",
+    "album_other": "एल्बामफोर",
+    "genre_one": "रोखोम",
+    "genre_other": "रोखोमफोर",
+    "folder_one": "फल्डार",
+    "folder_other": "फल्डारफोर",
+    "songWithCount_one": "{{count}} मेथाइ",
+    "songWithCount_other": "{{count}} मेथाइफोर",
+    "playlistWithCount_one": "{{count}} प्लेलिष्ट",
+    "playlistWithCount_other": "{{count}} प्लेलिष्टफोर",
+    "artistWithCount_one": "{{count}} आर्टिष्ट",
+    "artistWithCount_other": "{{count}} आर्टिष्टफोर",
+    "albumWithCount_one": "{{count}} एल्बाम",
+    "albumWithCount_other": "{{count}} एल्बामफोर",
+    "genreWithCount_one": "{{count}} रोखोम",
+    "genreWithCount_other": "{{count}} रोखोमफोर",
+    "folderWithCount_one": "{{count}} फल्डार",
+    "folderWithCount_other": "{{count}} फल्डारफोर",
+    "subFolderWithCount_one": "{{count}} दालाय-फल्डार",
+    "subFolderWithCount_other": "{{count}} दालाय-फल्डारफोर",
+
+    "selectionWithCount_one": "{{count}} सायख जानाय",
+    "selectionWithCount_other": "{{count}} सायख जानाय",
+
+    "shownWithCount": "{{count}} दिन्थिनाय",
+
+    "unknownTitle": "मिथियै बिमुं",
+    "unknownArtist": "मिथियै आर्टिष्ट",
+    "unknownAlbum": "मिथियै एल्बाम",
+    "unknownGenre": "मिथियै रोखोम",
+    "unknownFolder": "मिथियै फल्डार",
+    "unknownLyricsProvider": "मिथियै लिरिकस जगायग्रा",
+
+    "songTitle": "मेथाइनि बिमुं",
+    "duration": "सम",
+    "albumArtists": "मेथाइ एल्बाम आर्टिष्टफोर",
+    "albumTrackNo": "एल्बाम ट्रेक नम्बर",
+    "releasedYear": "दिहुननाय बोसोर",
+    "songAddedOn": "मेथाइ दाजाबनाय",
+    "lastModifiedOn": "जोबथा सुद्रायनाय",
+    "sampleRate": "सम्पल रेट",
+    "bitRate": "बिटरेट",
+    "noOfAudioChannels": "अडिअ चेनेलफोरनि अनजिमा",
+    "channelWithCount_one": "{{count}} चेनेल (मन')",
+    "channelWithCount_other": "{{count}} चेनेलफोर (स्टेरिअ')",
+    "songLocation": "मेथाइनि जायगा",
+    "lyrics": "मेथाइनि लिरिकस",
+    "syncedLyrics": "सिन्क्रनाइस लिरिकस",
+    "unsyncedLyrics": "सिन्क्रनाइस नङै लिरिकस",
+
+    "play": "प्ले",
+    "playNext": "उननि मेथाइ प्ले खालाम",
+    "playNextAll": "उननि गासैखौबो प्ले खालाम",
+    "shuffleAndPlay": "साफल आरो प्ले",
+    "shuffleAndPlayAll": "गासैखौबो साफल आरो प्ले खालाम",
+    "playAll": "गासैखौबो प्ले खालाम",
+    "addToQueue": "क्यु-आव दाजाब",
+    "removeFromQueue": "क्यु-निफ्राय बोखार",
+    "addSongsToQueue": "मेथाइफोरखौ क्यु-आव दाजाब",
+    "createAQueue": "मोनसे क्यु बानाय",
+    "info": "फोथाय",
+    "select": "सायख",
+    "unselect": "सायखनायखौ बोखार",
+    "selectAll": "गासैखौबो सायख",
+    "unselectAll": "गासै सायखनायखौ बोखार",
+    "showAll": "गासैखौबो दिन्थि",
+    "cancel": "केन्सेल",
+    "search": "नागिर",
+    "help": "मदद",
+    "copy": "कपि खालाम",
+
+    "sortBy": "रोखोमियै साजाय",
+    "filterBy": "फिल्टार खालाम",
+    "moreOptions": "गोबां अपसनफोर",
+    "title": "बिमुं",
+    "suggestion": "सुबुं",
+    "hideSuggestion": "सुबुं खोबथे",
+    "showSuggestion": "सुबुं दिन्थि",
+    "and": "आरो",
+    "ignore": "नेवसि",
+    "goBack": "उनथिं थां",
+    "saveArtwork": "आर्टवर्क दोनथुम",
+    "readMoreAboutTitle": "`{{title}}`-नि सोमोन्दै गोबां फराय",
+    "doNotShowThisMessageAgain": "बे खौरांखौ फिन दिन्थिनाङा।",
+    "artistConflictResolved": "आर्टिष्टनि जेंनाखौ मोजाङै सुस्रांलायबाय।",
+    "featArtistSuggestionResolved": "फिचारिं आर्टिष्टनि सुबुंआ मोजाङै सुस्रां जाबाय।",
+    "hasInternet": "नोङो इन्टरनेटजों फोनांजाब दं।",
+    "noInternet": "नोङो इन्टरनेटजों फोनांजाब गैया।",
+    "newUpdateAvailable": "गोदान एप आपडेट दं।",
+    "checkingForUpdates": "एप आपडेट नायगिरगासिनो दं...",
+    "updateCheckError": "एप आपडेट नायगिरनायाव गोरोन्थि जादों।",
+    "updateCheckErrorNoInternet": "$t(common.updateCheckError) $t(common.noInternet)",
+    "optionDisabled": "बे अपसना बन्द जाना दं।",
+    "somethingWentWrong": "माबा मोनसे गोरोन्थि जादों।",
+    "details": "गुवारै",
+    "restartApp": "एपखौ फिन-खेव",
+    "ok": "अके",
+    "loading": "लडिं जागासिनो"
+  },
+
+  "titleBar": {
+    "changeTheme": "थिम सोलाय",
+    "goBack": "उनथिं थां (Alt + Left-Arrow)",
+    "goHome": "ह'म-आव थां (Alt + Home)",
+    "goForward": "सिगांथिं थां (Alt + Right-Arrow)",
+
+    "minimize": "मिनिमाइस",
+    "maximize": "मेक्सिमाइस",
+    "close": "बन्द खालाम"
+  },
+
+  "player": {
+    "goToMainPlayer": "मेन प्लेयारसिम थां (Ctrl + N)",
+    "openInMiniPlayer": "मिनि प्लेयाराव खेव (Ctrl + N)",
+    "openInFullScreen": "फुल स्क्रिनाव खेव",
+    "likeDislike": "मोजां मोननाय/मोनि (Ctrl + H)",
+    "likeDislikeDisabled": "मेथाइखौ मोजां मोननाय/मोनिया बन्द दं मानोना बे मेथाइनि फुंखाया मिथियै आरो बेयो 'लाइक' सापर्ट खालामा।",
+    "prevSong": "सिगांनि मेथाइ (Ctrl + Left Arrow)",
+    "playPause": "प्ले/पज (Space)",
+    "nextSong": "उननि मेथाइ (Ctrl + Right Arrow)",
+    "lyrics": "लिरिकस (Ctrl + L)",
+    "shuffle": "साफल (Ctrl + S)",
+    "repeat": "रिपिट (Ctrl + T)",
+    "muteUnmute": "मियुट/आनमियुट (Ctrl + M)",
+    "currentQueue": "दा चलिबाय थानाय क्यु (Ctrl + Q)",
+    "adjustPlaybackSpeed": "प्लेबेकनि स्पिडखौ थिक खालाम",
+    "showCurrentQueue": "दानि क्यु-खौ दिन्थि",
+    "showMiniPlayer": "मिनि प्लेयारखौ दिन्थि",
+    "otherSettings": "गुबुन सेटिंसफोर",
+    "upNext": "उननि: ",
+    "closeUpNext": "'उननि' खौ बन्द खालाम",
+    "by": "-जों",
+
+    "errorTitle": "प्लेयाराव माबा गोरोन्थि जादों।",
+    "errorMessage": "$t(player.errorTitle)<br /> गाज्रि जानाय मेथाइ प्ले खालामनो नाजानायनि थाखाय बे जादों। <details/>",
+    "noErrorMessage": "जेबो गोरोन्थि खौरां गैया"
+  },
+
+  "sortTypes": {
+    "aToZ": "A निफ्राय Z",
+    "zToA": "Z निफ्राय A",
+    "dateAddedAscending": "गोजामसिन",
+    "dateAddedDescending": "गोदानसिन",
+    "releasedYearAscending": "दिहुननाय बोसोर (गोजौथिं)",
+    "releasedYearDescending": "दिहुननाय बोसोर (गाहायथिं)",
+    "allTimeMostListened": "बांसिन खोनासंजानाय (जेब्लाबो)",
+    "allTimeLeastListened": "खम खोनासंजानाय (जेब्लाबो)",
+    "monthlyMostListened": "बांसिन खोनासंजानाय (बे दान)",
+    "monthlyLeastListened": "खम खोनासंजानाय (बे दान)",
+    "artistNameAscending": "आर्टिष्टनि मुं (A निफ्राय Z)",
+    "artistNameDescending": "आर्टिष्टनि मुं (Z निफ्राय A)",
+    "albumNameAscending": "एल्बामनि मुं (A निफ्राय Z)",
+    "albumNameDescending": "एल्बामनि मुं (Z निफ्राय A)",
+    "noOfSongsDescending": "बांसिन मेथाइफोर",
+    "noOfSongsAscending": "खम मेथाइफोर",
+    "blacklistedFolders": "ब्लक खालामनाय फल्डारफोर",
+    "whitelistedFolders": "हगारनाय फल्डारफोर",
+    "mostLovedDescending": "बांसिन मोजां मोननाय",
+    "mostLovedAscending": "खम मोजां मोननाय",
+    "trackNoAscending": "ट्रेक नम्बर (गोजौथिं)",
+    "trackNoDescending": "ट्रेक नम्बर (गाहायथिं)",
+    "addedOrder": "दाजाबनाय अर्डार"
+  },
+
+  "filterTypes": {
+    "notSelected": "सायख'यै",
+    "blacklistedSongs": "ब्लक खालामनाय मेथाइफोर",
+    "whitelistedSongs": "हगारनाय मेथाइफोर",
+    "favorites": "मोजां मोननायफोर",
+    "nonFavorites": "मोजां मोनयैफोर"
+  },
+
+  "equalizerPresets": {
+    "custom": "कास्टम",
+    "flat": "फ्लेट",
+    "acoustic": "एकस्टिक",
+    "bassBooster": "बेस बुस्टार",
+    "bassReducer": "बेस रिडिउसार",
+    "classical": "क्लासिकेल",
+    "club": "क्लाब",
+    "dance": "दान्स",
+    "deep": "डिप",
+    "electronic": "इलेक्ट्रनिक",
+    "hipHop": "हिप-हप",
+    "jazz": "जेज",
+    "latin": "लेटिन",
+    "live": "लाइभ",
+    "loudness": "लावडनेस",
+    "lounge": "लाउञ्ज",
+    "metal": "मेटेल",
+    "piano": "पियान'",
+    "pop": "पप",
+    "reggae": "रेगे",
+    "rnb": "आर-एन-बि",
+    "rock": "रक",
+    "ska": "स्का",
+    "smallSpeakers": "फिसा स्पिकार",
+    "soft": "सफ्ट",
+    "softRock": "सफ्ट रक",
+    "spokenWord": "स्प'केन वार्ड",
+    "techno": "टेक्न'",
+    "trebleBooster": "ट्रेबल बुस्टार",
+    "trebleReducer": "ट्रेबल रिडिउसार",
+    "vocalBooster": "भकेल बुस्टार"
+  },
+
+  "song": {
+    "showInFileExplorer": "फाइल एक्सप्ल'राराव दिन्थि",
+    "artwork": "मेथाइनि आर्टवर्क",
+    "selectedSongCount": "{{count}} सायख जानाय $t(common.song, {\"count\":{{count}}})",
+    "likeSong": "मोजां मोननायाव दाजाब",
+    "unlikeSong": "मोजां मोननायनिफ्राय बोखार",
+    "toggleLikeSongs": "मोजां मोननायाव दाजाब/बोखार",
+    "addToPlaylists": "प्लेलिष्ट(फोर)आव दाजाब",
+    "goToAlbum": "एल्बामाव थां",
+    "editSongTags": "मेथाइनि टेग सुद्राय",
+    "reparseSong": "मेथाइखौ फिन पार्स खालाम",
+    "blacklistSong_one": "मेथाइखौ ब्लक खालाम",
+    "blacklistSong_other": "मेथाइफोरखौ ब्लक खालाम",
+    "deblacklist": "ब्लकनिफ्राय बोखार",
+    "delete": "सिस्टेमनिफ्राय डिलिट खालाम",
+    "playingNext": "उननि प्ले जाहोगोन",
+    "playingNow": "दा प्ले जागासिनो",
+    "blacklisted": "ब्लक खालामनाय",
+    "likedThisSong": "नोङो बे मेथाइखौ मोजां मोनबाय",
+    "dislikedThisSong": "नोङो बे मेथाइखौ मोजां मोनाखिसै"
+  },
+
+  "artist": {
+    "playAllSongs": "गासै मेथाइफोरखौ प्ले खालाम",
+    "toggleLikeArtists": "मोजां मोननायाव आर्टिष्ट दाजाब/बोखार",
+    "likeArtist": "आर्टिष्टखौ मोजां मोननायाव दाजाब",
+    "dislikeArtist": "आर्टिष्टखौ मोजां मोननायनिफ्राय बोखार",
+    "selectedArtistCount": "{{count}} सायख जानाय $t(common.artist, {\"count\":{{count}}})"
+  },
+
+  "folder": {
+    "toggleBlacklistFolder": "फल्डार ब्लक/आनब्लक खालाम",
+    "blacklistFolder": "ब्लक फल्डार",
+    "selectedFolderCount": "{{count}} सायख जानाय $t(common.folder, {\"count\":{{count}}})",
+    "selectedParentFolderCount_one": "{{count}} सायख जानाय पेरेन्ट फल्डार",
+    "selectedParentFolderCount_other": "{{count}} सायख जानाय पेरेन्ट फल्डारफोर",
+    "directoryCount_one": "{{count}} डाइरेक्टरि",
+    "directoryCount_other": "{{count}} डाइरेक्टरिफोर",
+    "selectedDirectoryCount_one": "{{count}} सायख जानाय डाइरेक्टरि",
+    "selectedDirectoryCount_other": "{{count}} सायख जानाय डाइरेक्टरिफोर"
+  },
+
+  "playlist": {
+    "changeArtwork": "आर्टवर्क सोलाय",
+    "addArtwork": "आर्टवर्क दाजाब",
+    "playlistArtworkUpdateSuccess": "प्लेलिष्ट आर्टवर्कखौ मोजाङै आपडेट खालामबाय।",
+    "renamePlaylist": "प्लेलिष्टनि मुं सोलाय",
+    "exportPlaylist": "प्लेलिष्ट एक्सपर्ट खालाम",
+    "deleteSelectedPlaylists": "सायख जानाय प्लेलिष्ट(फोर) डिलिट खालाम",
+    "deletePlaylist_one": "प्लेलिष्ट डिलिट खालाम",
+    "deletePlaylist_other": "प्लेलिष्टफोर डिलिट खालाम",
+    "selectedPlaylistCount": "{{count}} सायख जानाय $t(common.playlist, {\"count\":{{count}}})",
+    "empty": "बे प्लेलिष्टा खालि नुयो।"
+  },
+
+  "album": {
+    "selectedAlbumCount": "{{count}} सायख जानाय $t(common.album, {\"count\":{{count}}})"
+  },
+
+  "genre": {
+    "selectedGenreCount": "{{count}} सायख जानाय $t(common.genre, {\"count\":{{count}}})"
+  },
+
+  "homePage": {
+    "empty": "बेयाव जेबो गैया..",
+    "emptyDescription": "नोङो दासिमबो नोन्नि लाइब्रेरियाव जेबो मिउजिक फल्डार दाजाबाखै।",
+    "loading": "नेथ'। जों गासैखौबो थियारि खालामगासिनो...",
+    "listenMoreToShowMetrics": "बांसिन मेट्रिक्स दिन्थिनो गोबां मेथाइ खोनासं।",
+
+    "recentlyAddedSongs": "बावैसो दाजाबनाय मेथाइफोर",
+    "recentlyPlayedSongs": "बावैसो प्ले खालामनाय मेथाइफोर",
+    "recentArtists": "बावैसोनि आर्टिष्टफोर",
+    "mostLovedSongs": "जोबोद मोजां मोननाय मेथाइफोर",
+    "mostLovedArtists": "जोबोद मोजां मोननाय आर्टिष्टफोर",
+
+    "openSongsWithNewestSortOption": "'मेथाइफोर' खौ 'गोदानसिन' अर्डाराव खेवो।",
+    "openPlaybackHistory": "'जारिमिन' प्लेलिष्टखौ 'दाजाबनाय अर्डार' आव खेवो।",
+    "openFavoritesWithAllTimeMostListenedSortOption": "'मोजां मोननाय' प्लेलिष्टखौ 'जेब्लाबो बांसिन खोनासंनाय' अर्डाराव खेवो।",
+
+    "noSongsAvailable": "जेबो मेथाइ गैया",
+    "stayCalm": "थाथ'",
+    "favoritesAndRecaps": "मोजां मोननाय आरो रिकेपफोर"
+  },
+
+  "searchPage": {
+    "addFolder": "फल्डार दाजाब",
+    "enablePredictiveSearch": "आगु-नागिरनायखौ (Predictive) खालाम",
+    "disablePredictiveSearch": "आगु-नागिरनायखौ बन्द खालाम",
+    "searchForAnything": "जेखौबो नागिर",
+    "searchForAnythingInLibrary": "नोन्नि लाइब्रेरियाव जेखौबो नागिर",
+    "separateKeywords": "नागिरनाय समाव सोदोबफोरखौ आलादा खालामनो ' ; ' बाहाय।",
+    "allFilter": "गासै",
+    "mostRelevant": "गोनांसिन",
+    "resultCount_one": "{{count}} फिथाय",
+    "resultCount_other": "{{count}} फिथायफोर",
+    "resultAndVisibleCount_other": "{{count}} फिथायफोर ($t(common.shownWithCount, {\"count\":{{noVisible}}}))",
+    "noResults": "नोङो नागिरनाय बायदि जेबो गैया।",
+    "recentSearchResultTooltipLabel": "'{{value}}' नि थाखाय नागिर",
+    "showingResultsFor": "<span>'{{query}}'</span> नि फिथाय दिन्थिगासिनो",
+    "showingResultsForWithFilter": "<span>'{{query}}'</span> नि फिथाय <span>{{filter}}</span> आव दिन्थिगासिनो",
+
+    "a": "जेखौबो नागिर"
+  },
+
+  "songsPage": {
+    "loading": "नेथ'। जों गासैखौबो थियारि खालामगासिनो...",
+    "empty": "बेयाव जेबो गैया.."
+  },
+
+  "artistsPage": {
+    "empty": "बेयाव जेबो गैया..."
+  },
+
+  "foldersPage": {
+    "addFolder": "फल्डार दाजाब",
+    "musicFolders": "मिउजिक फल्डारफोर",
+    "empty": "नोन्नि लाइब्रेरियाव जेबो फल्डार दाजाबाखै।"
+  },
+
+  "playlistsPage": {
+    "createNewPlaylist": "गोदान प्लेलिष्ट बानाय",
+    "importPlaylist": "प्लेलिष्ट इम्पर्ट खालाम",
+    "addPlaylist": "प्लेलिष्ट दाजाब",
+    "removeFromThisPlaylist": "बे प्लेलिष्टनिफ्राय बोखार",
+    "removeSongFromPlaylistSuccess": "`{{title}}` खौ '{{playlistName}}' प्लेलिष्टनिफ्राय बोखारबाय",
+    "createdOn": "{{val, datetime}} आव बानायनाय",
+    "clearSongHistoryConfirm": "मेथाइनि जारिमिनखौ सुस्रां",
+    "clearSongHistoryConfirmNotice": "नोङो मेथाइनि जारिमिनखौ सुस्रांनो थि खालामबाय नामा? बेखौ उनाव फिन मोनफिननाय नङा।",
+    "clearSongHistorySuccess": "नोन्नि मेथाइनि जारिमिनखौ मोजाङै सुस्रांलायबाय।",
+    "empty": "दासिम जेबो प्लेलिष्ट बानायाखै।",
+
+    "favorites": "मोजां मोननायफोर",
+    "history": "जारिमिन"
+  },
+
+  "albumsPage": {
+    "empty": "बेयाव जेबो गैया..."
+  },
+
+  "genresPage": {
+    "empty": "बेयाव जेबो गैया..."
+  },
+
+  "settingsPage": {
+    "settings": "सेटिंस",
+
+    "appearance": "नुथाय",
+    "changeTheme": "नोन्नि गोसो बायदि एप-नि थिम सोलाय।",
+    "lightTheme": "सोरान थिम",
+    "darkTheme": "खोमसि थिम",
+    "systemTheme": "सिस्टेम थिम",
+
+    "enableImageBasedDynamicThemes": "डाइनामिक थिम खालाम",
+    "enableImageBasedDynamicThemesDescription": "दा चलिबाय थानाय मेथाइनि कभार छबिनि सायाव सोनारनानै एप-नि थिमखौ सोलायहो",
+
+    "language": "राव",
+    "languageDescription": "नोरा-खौ बबे रावाव दिन्थिनो गोसो जायो सायख।",
+
+    "audioPlayback": "अडिअ प्लेबेक",
+    "showRemainingSongDuration": "मेथाइनि थालांनाय समखौ दिन्थि",
+    "showRemainingSongDurationDescription": "मेथाइनि गासै समनि बदलै थालांनाय समखौ दिन्थिगोन।",
+    "playbackRate": "प्लेबेक स्पिड",
+    "changePlaybackRate": "प्लेयारनि प्लेबेक स्पिडखौ सोलाय।",
+    "resetPlaybackRate": "1x आव रिसेट खालाम",
+    "seekbarScrollInterval": "अडिअ सिक-बार आरो भलिउम सिक-बारखौ स्क्रल खालामनाय समाव सोलायनाय बिबांखौ थिक खालाम।",
+    "second": "सेकेण्ड",
+    "second_other": "सेकेण्डफोर",
+
+    "accounts": "एकाउन्टफोर",
+    "integrateLastFm": "Last.fm खौ नोरा-जों फोनांजाब।",
+    "lastFmLogo": "LastFM लग'",
+    "lastFmConnected": "LastFM फोनांजाब दं",
+    "lastFmNotConnected": "LastFM फोनांजाब गैया",
+    "loggedInAs": "लग्ड इन मुं",
+    "lastFmDescription1": "Scrobbling खालामनो Last.fm जों फोनांजाब।",
+    "lastFmDescription2": "Scrobbling आ जाबाय नोङो मा खोनासंयो बे खौरांफोरखौ दैथायहरनाय।",
+    "lastFmDescription3": "जेब्ला नोङो मेथाइ खोनासंयो, Last.fm आ बेखौ “Scrobbles” खालामो आरो नोन्नि एकाउन्टाव दाजाबो।",
+    "lastFmDescription4": "बे फिचारनि थाखाय इन्टरनेट नांगौ।",
+    "authenticateAgain": "फिन सिनायथि हो",
+    "loginInBrowser": "ब्राउजाराव लग-इन खालाम",
+    "scrobblingDescription": "नोङो माबोरै मेथाइ खोनासंयो बे खौरांखौ दैथायहरनो Last.fm Scrobbling खौ खालाम।",
+    "enableScrobbling": "Last.fm Scrobbling खालाम",
+    "sendFavoritesToLastFmDescription": "मेथाइखौ लाइक/डिस्लाइक खालामनाय समाव मोजां मोननाय डाटाखौ Last.fm सिम दैथायहर।",
+    "sendFavoritesToLastFm": "मोजां मोननाय डाटा दैथायहर",
+    "sendNowPlayingToLastFmDescription": "मेथाइ प्ले खालामनाय लोगोलोगो दा चलिबाय थानाय मेथाइनि डाटाखौ Last.fm सिम दैथायहर।",
+    "sendNowPlayingToLastFm": "दा चलिबाय थानाय मेथाइनि डाटा दैथायहर",
+    "enableDiscordRpcDescription": "Discord Rich Presence खौ नोरा-जों फोनांजाब",
+    "enableDiscordRpc": "Discord Rich Presence खालाम",
+
+    "doNotSaveLyricsAutomatically": "लिरिकसखौ अटोमेटिक सेब दाखालाम",
+    "syncedLyricsOnly": "खालि सिन्क्रनाइस लिरिकस",
+    "saveEitherLyrics": "सिन्क्रनाइस एबा आनसिन्क्रनाइस लिरिकस",
+    "lyrics": "लिरिकस",
+    "enableMusixmatchLyricsDescription": "Musixmatch लिरिकस खालाम, जाय नोन्नि मेथाइनि थाखाय सिन्क्रनाइस आरो आनसिन्क्रनाइस लिरिकस जगायो।",
+    "musixmatchDisclaimerNotice": "बे फिचारखौ खालामनाय आरो बाहायनायनि ओंथिया जाबाय नोङो <Button>Musixmatch लिरिकस डिस्क्लेइमार</Button> खौ मानिना लाबाय।",
+    "editMusixmatchSettings": "Musixmatch सेटिंस सुद्राय",
+    "enableMusixmatch": "Musixmatch लिरिकस खालाम",
+    "musixmatchEnabled": "Musixmatch लिरिकस खालामबाय",
+    "saveLyricsAutomaticallyDescription": "लिरिकस पेजाव मोननाय लिरिकसखौ अटोमेटिक सेब खालामनो अपसन सायख।",
+    "saveLyricsAutomaticallyInfo": "गाज्रि जानायनिफ्राय रैखा मोननो मेथाइ जोबनायनि उनाव अटोमेटिक लिरिकसखौ सेब खालामगोन।",
+    "saveLyricsInLrcFilesDescription": "मेथाइ फाइलआव LRC फाइलाव लिरिकस सेब खालामनायखौ खालाम।",
+    "saveLyricsInLrcFiles": "LRC फाइलावबो लिरिकस सेब खालाम",
+    "autoTranslateLyricsDescription": "नोङो सायखनाय रावाव लिरिकसखौ अटोमेटिक राव-सोलाय।",
+    "autoTranslateLyrics": "लिरिकस अटो-ट्रांसलेट खालाम",
+    "autoConvertLyricsDescription": "लिरिकसखौ लेटिन हांखोआव अटोमेटिक सोलाय। (जापानिस, चाइकिस आरो करियाननि थाखाय)।",
+    "autoConvertLyrics": "लिरिकस अटो-कनभार्ट खालाम",
+    "lrcFileCustomSaveLocationDescription": "LRC फाइलफोरखौ दोनथुमनो गुबुन जायगा सायख।",
+    "selectedCustomLocation": "सायख जानाय जायगा",
+    "setCustomLocation": "कास्टम जायगा थिक खालाम",
+
+    "equalizer": "इकुवेलाइजर",
+    "reset": "रिसेट",
+
+    "defaultPage": "डिफल्ट पेजब",
+    "changeDefaultPageDescription": "एप खेवनाय समाव बबे पेजखौ गिबियाव दिन्थिगोन बेखौ सोलाय।",
+
+    "preferences": "पसन्दफोर",
+    "songIndexingDescription": "मेथाइफोरखौ पेजाव इन्डेक्स खालामो, मेथाइ टेबाव नम्बर दाजाबो।",
+    "enableSongIndexing": "मेथाइ इन्डेक्सिं खालाम",
+    "showTrackNumberAsSongIndexDescription": "एल्बाम पेजाव मेथाइनि सिगांआव ट्रेक नम्बर दिन्थि।",
+    "showTrackNumberAsSongIndex": "ट्रेक नम्बरखौ मेथाइ इन्डेक्स बादियै दिन्थि",
+    "showArtistArtworkNearSongControlsDescription": "मेथाइ कन्ट्रल पेनेलाव आर्टिष्टनि मुंनि सेराव आर्टिष्टनि आर्टवर्क दिन्थि।",
+    "showArtistArtworkNearSongControls": "मुंनि सेराव आर्टिष्टनि आर्टवर्क दिन्थि।",
+    "disableBackgroundArtworksDescription": "कुछुमान पेजनि उनथिं थानाय आर्टवर्कखौ बन्द खालाम।",
+    "disableBackgroundArtworks": "बेकग्राउन्ड आर्टवर्क बन्द खालाम",
+    "playlistArtworksDescription": "मेथाइ कभारनिफ्राय बानायनाय आर्टवर्कखौ सोलाय।",
+    "enablePlaylistArtworks": "प्लेलिष्टाव मेथाइ कभारनि आर्टवर्कखौ खालाम",
+    "shuffleArtworkFromSongCovers": "मेथाइ कभारनि आर्टवर्कखौ साफल खालाम।",
+
+    "accessibility": "एक्सेसिबिलिटि",
+    "reducedMotionDescription": "एप-नि एनिमेसनखौ खम खालामो।",
+    "enableReducedMotion": "रिडिउस मसन खालाम",
+
+    "performance": "पारफर्मेन्स",
+    "removeAnimationOnBatteryDescription": "बेटारिआव सालायनाय समाव एनिमेसनखौ बोखारो।",
+    "removeAnimationOnBattery": "बेटारि पावारआव एनिमेसनखौ बोखार।",
+    "allowToPreventScreenSleepingDescription": "लिरिकस दिन्थिनाय समाव स्क्रिनखौ उन्दुनायनिफ्राय होबथा।",
+    "allowToPreventScreenSleeping": "स्क्रिन उन्दुनायखौ होबथा।",
+
+    "startupAndWindowCustomization": "स्टार्टआप आरो विन्ड' सेटिंस",
+    "autoLaunchAtStartDescription": "नोङो कम्पिउटाराव लग-इन खालामनाय लोगोलोगो नोरा-खौ अटोमेटिक खेवगोन।",
+    "autoLaunchAtStart": "स्टार्टआप-आव अटो-लन्च खालाम",
+    "hideWindowAtStartDescription": "खेवनाय समाव नोरा-खौ दिन्थिगोन ना दिन्थिया थिक खालाम।",
+    "hideWindowAtStart": "स्टार्टआप-आव नोरा-खौ सिस्टेम ट्रे-आव खेव",
+    "hideWindowOnCloseDescription": "बन्द खालामनाय बुथाम थुनो नोरा-या माबोरै खामानि मावगोन थिक खालाम।",
+    "hideWindowOnClose": "बन्द खालामनाय बुथाम थुब्ला नोरा-खौ सिस्टेम ट्रे-आव खोबथे।",
+
+    "storage": "दोनथुमनाय",
+    "storageDescription": "नोरा-या लाइब्रेरिखौ माबोरै सालायो आरो जायगा बाहायो नाय।",
+
+    "fullStorageSpace": "गासै दोनथुमनाय बाहायनाय",
+    "fullStorageOutOfUsage": "{{total}} नि {{value}}",
+    "freeSpace": "खालि जायगा",
+    "otherApplications": "गुबुन एपफोर",
+    "artworkCache": "आर्टवर्क केस",
+    "tempArtworkCache": "टेम्प आर्टवर्क केस",
+    "databaseData": "डाटाबेस",
+    "songsData": "मेथाइ डाटा",
+    "artistsData": "आर्टिष्ट डाटा",
+    "albumsData": "एल्बाम डाटा",
+    "playlistsData": "प्लेलिष्ट डाटा",
+    "palettesData": "पेलेट डाटा",
+    "genresData": "रोखोम डाटा",
+    "appLogs": "एप लगफोर",
+    "userData": "इउजार डाटा",
+    "internalAppFiles": "इसिंनि एप फाइलफोर",
+    "storageUseForLibraryData": "लाइब्रेरि डाटा बाहायनाय",
+    "otherAppFiles": "गुबुन एप फाइलफोर",
+    "generated": "दिहुननाय",
+    "generateStorageMetrics": "स्टरेज मेट्रिक्स दिहुन",
+    "generateStorageMetricsAgain": "स्टरेज मेट्रिक्स फिन दिहुन",
+    "noStorageMetrics": "नोङो दासिमबो स्टरेज मेट्रिक्स दिहुनाखै।",
+    "storageMetricsGenerationDisclaimer": "स्टरेज मेट्रिक्स दिहुननाया सम लायो, बेखायनो नोरा-या इसे समनि थाखाय बन्द जानो हागौ। नेथ'...",
+    "storageMetricsGenerationError": "माबा गोरोन्थि जादों। डेभेलपारखौ खौरां हर।",
+
+    "advanced": "एडभान्स",
+    "saveVerboseLogsDescription": "डिबागिं-नि थाखाय भार्ब'स लगफोरखौ दोनथुम।",
+    "saveVerboseLogs": "भार्ब'स लगफोरखौ दोनथुम",
+
+    "about": "सोमोन्दै",
+    "releasedOn": "{{val, datetime}} आव रिलिस खालामनाय",
+    "noraWebsite": "नोरा-नि अफिसियेल वेबसाइट",
+    "noraDiscordServer": "नोरा-नि अफिसियेल डिस्करड सर्भार",
+    "noraGithubRepo": "नोरा-नि गिटहब रिप'",
+    "noraGithubIssues": "नोरा-नि गिटहब इसु",
+    "noraLocalizationStatus": "नोरा राव-सोलायनाय (Localization) थासारि",
+    "noraDescription": "नोरा जाबाय इलेक्ट्रन आरो रियाक्ट जों बानायनाय मोनसे मोजां मिउजिक प्लेयार।",
+    "noraInspiration": "पियुस मामिदवारनि <Hyperlink>Oto Music for Android</Hyperlink> निफ्राय आइडिया लानाय।",
+    "otoMusicOnPlayStore": "Oto Music for Android आ प्ले स्टराव",
+    "noraLicenseNotice": "बे बुस्तुखौ <Button>MIT licence</Button> नि सिङाव लाइसेन्स खालामनाय।",
+    "appLicense": "एप लाइसेन्स",
+    "releaseNotes": "रिलिस नटफोर",
+    "openSourceLicenses": "अपेन-सर्स लाइसेन्सफोर",
+    "openLogFile": "लग फाइल खेव",
+    "openDevtools": "डेभ-टुल खेव",
+    "resyncLibrary": "लाइब्रेरि रि-सिन्क खालाम",
+    "generatePalettes": "पेलेटफोर दिहुन",
+    "appShortcuts": "एप सर्टकाटफोर",
+
+    "resetApp": "एप रिसेट खालाम",
+    "clearOptionalData": "अपसनेल डाटा सुस्रां",
+    "clearHistory": "जारिमिन सुस्रां",
+    "confirmSongHistoryDeletion": "मेथाइ जारिमिन सुस्रां",
+    "songHistoryDeletionDisclaimer": "नोङो मेथाइनि जारिमिनखौ सुस्रांनो थि खालामबाय नामा? बेखौ उनाव फिन मोनफिननाय नङा।",
+    "songHistoryDeletionSuccess": "नोन्नि मेथाइनि जारिमिनखौ मोजाङै सुस्रांलायबाय।",
+    "exportAppData": "एप डाटा एक्सपर्ट खालाम",
+    "importAppData": "एप डाटा इम्पर्ट खालाम",
+    "createIssueOnNoraGithubRepo": "$t(settingsPage.noraGithubRepo) आव मोनसे इसु बानाय",
+    "contact": "जुदि नोन्नि माबा फोरमायनो दं, बग, फिचार रिकुएस्ट, अननानै <Hyperlink>$t(settingsPage.createIssueOnNoraGithubRepo)</Hyperlink>",
+    "emailContact": "एबा आंनि इ-मेइलाव कण्टेक्ट खालाम।",
+    "loveNora": "<Hyperlink>Sandakan Nipunajith</Hyperlink> आ <span>❤</span> जों बानायनाय।",
+    "sandakanGithubProfile": "Sandakan नि गिटहब प्रफाइल",
+    "beautifulSriLanka": "रुपसि श्रीलंका"
+  },
+
+  "artistInfoPage": {
+    "likeArtist": "{{name}} खौ लाइक खालाम",
+    "dislikeArtist": "{{name}} खौ डिस्लाइक खालाम",
+    "appearsInAlbums": "एल्बामफोराव नुजाथिनाय",
+    "appearsInSongs": "मेथाइफोराव नुजाथिनाय",
+    "similarArtistsInLibrary": "लाइब्रेरियाव एखे आर्टिष्टफोर",
+    "otherSimilarArtists": "गुबुन एखे आर्टिष्टफोर",
+    "viewInLastFm": "`{{name}}` खौ Last.fm आव नाय"
+  },
+
+  "albumInfoPage": {
+    "unavailableTracks": "बे एल्बामनि मोनयै ट्रेकफोर"
+  },
+
+  "currentQueuePage": {
+    "queue": "दा चलिबाय थानाय क्यु",
+    "folderWithName": "{{name}} फल्डार",
+    "enableAutoScrolling": "अटो स्क्रलिं खालाम",
+    "disableAutoScrolling": "अटो स्क्रलिं बन्द खालाम",
+    "scrollToCurrentPlayingSong": "दा चलिबाय थानाय मेथाइसिम स्क्रल खालाम",
+    "shuffleQueue": "क्यु साफल खालाम",
+    "queueShuffleSuccess": "क्यु खौ साफल खालामबाय।",
+    "clearQueue": "क्यु खौ सुस्रां",
+    "queueCleared": "क्यु खौ सुस्रांलायबाय।",
+    "durationRemaining": "{{duration}} थालांनाय",
+    "empty": "क्यु आ खालि।"
+  },
+
+  "lyricsEditingPage": {
+    "lyricsText": "लिरिकस टेक्सट",
+    "startInSeconds": "सेकेण्डआव जागाय",
+    "endInSeconds": "सेकेण्डआव फोजोब",
+    "fromTo": "{{start}} निफ्राय {{end}} सिम",
+    "deleteLine": "सारि डिलिट खालाम",
+    "addLineAbove": "गोजौआव सारि दाजाब",
+    "addLineBelow": "गाहायाव सारि दाजाब",
+    "addInstrumentalLineBelow": "गाहायाव इन्स्ट्रुमेन्टेल सारि दाजाब",
+    "editLine": "सारि सुद्राय",
+    "finishEditing": "सुद्रायनायखौ फोजोब",
+    "resetLyrics": "लिरिकस रिसेट खालाम",
+    "resetLyricsConfirm": "नोङो लिरिकस रिसेट खालामनो थि खालामबाय नामा?",
+    "resetLyricsConfirmMessage": "<p>नोङो <span>लिरिकस सारि सुद्रायनाय</span> आरो <span>जागाय/जोबनाय सिन्क्रनाइजेसन डाटा</span> खौ गोमागोन जुदि बेखौ खालामो।</p> <br/> <p>बेखौ उनाव फिन मोनफिननाय नङा।</p>",
+    "incorrectSongTitle": "गेलेण्डर मेथाइआव दं",
+    "incorrectSongMessage": "सुद्रायनो, `{{title}}` मेथाइखौ प्ले खालाम।",
+    "lyricsEditor": "लिरिकस एडिटार",
+    "playbackSpeed": "स्पिड",
+    "playbackTime": "सम",
+    "offsetWithCount": "{{count}} अफसेट",
+    "saveLyrics": "लिरिकस सेब खालाम",
+    "stopAndEditLyrics": "बन्द खालाम आरो लिरिकस सुद्राय",
+    "playLyrics": "लिरिकस प्ले खालाम",
+    "configure": "कनफिगार"
+  },
+
+  "lyricsPage": {
+    "noLyrics": "लिरिकस मोननाय नङाखिसै।",
+    "noLyricsDescription": "जों बे मेथाइनि थाखाय लिरिकस मोनाखिसै। नोङो टेग एडिटाराव गावसोरनो दाजाबनो हागोन।",
+    "noSyncedLyrics": "सिन्क्रनाइस लिरिकस मोनाखिसै।",
+    "noSyncedLyricsDescription": "जों बे मेथाइनि थाखाय सिन्क्रनाइस लिरिकस मोनाखिसै।",
+    "noOnlineLyrics": "अनलाइन लिरिकस मोनाखिसै।",
+    "noOfflineLyrics": "अफलाइन लिरिकस मोनाखिसै।",
+    "noSavedLyrics": "सेब खालामनाय लिरिकस मोनाखिसै।",
+    "onlineLyricsRefreshFailed": "अनलाइन लिरिकस रिफ्रेस खालामनो हायाखिसै।",
+    "offlineLyricsForSong": "`{{title}}` नि थाखाय अफलाइन लिरिकस",
+    "onlineLyricsForSong": "`{{title}}` नि थाखाय अनलाइन लिरिकस",
+    "editLyrics": "एडिटाराव लिरिकस सुद्राय",
+    "translateLyrics": "लिरिकस ट्रांसलेट खालाम",
+    "romanizeLyrics": "जापानिस लिरिकसखौ रमानाइस खालाम",
+    "convertLyricsToPinyin": "चाइकिस लिरिकसखौ पिनयिन-आव सोलाय",
+    "convertLyricsToRomaja": "करियान लिरिकसखौ रमाजा-आव सोलाय",
+    "resetLyrics": "लिरिकस रिसेट खालाम",
+    "showOnlineLyrics": "अनलाइन लिरिकस दिन्थि",
+    "refreshOnlineLyrics": "अनलाइन लिरिकस रिफ्रेस खालाम",
+    "showSavedLyrics": "सेब खालामनाय लिरिकस दिन्थि",
+
+    "lyricsLoading": "लिरिकस नागिरगासिनो",
+    "lyricsLoadingDescription": "नेथ'... जों गासै जायगायाव नागिरगासिनो...",
+    "noInternet": "इन्टरनेट कनेक्सन गैया",
+    "noInternetDescription": "बे मेथाइनि थाखाय अफलाइन लिरिकस गैया। अनलाइन लिरिकस नायनो इन्टरनेट नांगोन।",
+    "lyricsProvidedBy": "<Hyperlink/> आ लिरिकस जगायदों",
+    "lyricsTranslatedBy": "Google Translate बाहायनानै लिरिकस ट्रांसलेट खालामनाय"
+  },
+
+  "songInfoPage": {
+    "listensCount": "{{count}} खेब खोनासंनाय",
+    "listeningActivityInLastMonths": "जोबथा {{count}} दानाव खोनासंनाय हाबा",
+    "similarTracksInLibrary": "लाइब्रेरियाव एखे ट्रेकफोर",
+    "otherSimilarTracks": "गुबुन एखे ट्रेकफोर",
+    "additionalSongInfo": "मेथाइनि बांद्राय खौरां",
+    "allTimeListens": "गासै खोनासंनाय",
+    "listensThisMonth": "बे दान खोनासंनाय",
+    "listensThisYear": "बे बोसोर खोनासंनाय",
+    "totalSongSkips": "गासै मेथाइ स्किप",
+    "fullSongListens": "आबुं मेथाइ खोनासंनाय",
+    "mostSoughtPosition": "बांसिन नागिरनाय जायगा",
+    "mostSoughtFrequency": "बांसिन नागिरनाय फ्रिक्वेन्सि",
+    "lovedSong": "नोङो बे मेथाइखौ मोजां मोनदों",
+    "unlovedSong": "नोङो बे मेथाइखौ मोजां मोनाखिसै",
+    "byArtists": " <By>जों</By> <span>{{val, list}}</span>"
+  },
+
+  "songTagsEditingPage": {
+    "editArtwork": "आर्टवर्क सुद्राय",
+    "removeArtwork": "आर्टवर्क बोखार",
+    "lyricsIncluded": "लिरिकस दं",
+    "addToMetadata": "मेटाडाटा-आव दाजाब",
+    "customizeMetadata": "मेटाडाटा कास्टमाइस खालाम",
+    "songMetadataEditor": "मेथाइ मेटाडाटा एडिटार",
+    "searchMetadataOnInternet": "इन्टरनेटाव मेटाडाटा नागिर",
+    "saveTags": "मेटाडाटा टेग सेब खालाम",
+    "updateAddedToBeSavedLater": "दा चलिबाय थानाय मेथाइनि मेटाडाटा आपडेटखौ मेथाइ जोबनायनि उनाव सेब खालामगोन।",
+    "pendingUpdateAvailable": "बे मेथाइनि मेटाडाटा आपडेटा सेब खालामनो थालांदों।",
+    "saveTagsNotSupportedTitle": "सापर्ट गैया",
+    "saveTagsNotSupportedDescription": "<P1>नोरा-या <Format/> फरमेटआव मेथाइ मेटाडाटा सुद्रायनायखौ सापर्ट खालामा।</P1><P2>दा खालि <SupportedFormat/> फरमेटल' सापर्ट खालामो।",
+    "albumArtistNotMentioned": "मेथाइया सिगांनिफ्रायनो `{{title}}` एल्बामनि बाहागो, नाथाय बेनि आर्टिष्ट '{{artists}}' आ एल्बाम आर्टिष्ट हिसाबै थिक खालामजायाखै।",
+    "songAlbumArtistMismatch": "सायख जानाय एल्बाम आर्टिष्ट '{{albumArtists}}' आ सायख जानाय एल्बाम '{{albumTitle}}' नि आर्टिष्ट '{{songAlbumArtists}}' जों मिलायाखै।",
+    "searchForArtists": "बेयाव आर्टिष्टफोर नागिर",
+    "searchForAlbums": "बेयाव एल्बामफोर नागिर",
+    "searchForGenres": "बेयाव रोखोमफोर नागिर",
+    "addNewArtist": "गोदान आर्टिष्ट `{{name}}` दाजाब",
+    "addNewAlbum": "गोदान एल्बाम `{{name}}` दाजाब",
+    "addNewGenre": "गोदान रोखोम `{{name}}` दाजाब",
+    "albumName": "एल्बाम मुं",
+    "songArtists": "मेथाइ आर्टिष्ट",
+    "songName": "मेथाइ मुं",
+    "composer": "कम्पजार",
+    "syncedLyricsFetchFailed": "सिन्क्रनाइस लिरिकस मोननो हायाखिसै।",
+    "lyricsEnhancedSynced": "लिरिकस आ मोजां सिन्क्रनाइस जानाय।",
+    "lyricsNotEnhancedSynced": "लिरिकस आ मोजां सिन्क्रनाइस जानाय नङा।",
+    "enhancedLyricsSupported": "मोजां सिन्क्रनाइस लिरिकस सापर्ट खालामो।",
+    "readMoreAboutLrc": "$t(common.readMoreAboutTitle, {\"title\": \"LRC फरमेट\"})",
+    "avoidUnsyncedOnSyncedLyricsTab": "सिन्क्रनाइस लिरिकस टेबाव आनसिन्क्रनाइस लिरिकस दा लिर।",
+    "avoidSyncedOnUnsyncedLyricsTab": "आनसिन्क्रनाइस लिरिकस टेबाव सिन्क्रनाइस लिरिकस दा लिर।",
+    "pendingLyricsSavesAvailable": "बे मेथाइनि सेब खालामनो गोनां लिरिकस दं। बेफोरखौ मेथाइ जोबनायनि उनाव सेब खालामगोन।",
+    "downloadLyrics": "लिरिकस डाउनलड खालाम",
+    "downloadSyncedLyrics": "सिन्क्रनाइस लिरिकस डाउनलड खालाम",
+    "musixmatchNotEnabled": "बे फिचारखौ बाहायनो नोङो सेटिंसनिफ्राय Musixmatch लिरिकसखौ अन खालामनांगोन।"
+  },
+
+  "miniPlayer": {
+    "alwaysOnTopEnabled": "जेब्लाबो गोजौआव: अन",
+    "alwaysOnTopDisabled": "जेब्लाबो गोजौआव: अफ"
+  },
+
+  "time": {
+    "second_one": "सेकेण्ड",
+    "second_other": "सेकेण्डफोर",
+    "minute_one": "मिनिट",
+    "minute_other": "मिनिटफोर",
+    "hour_one": "घण्टा",
+    "hour_other": "घण्टाफोर",
+    "day_one": "सान",
+    "day_other": "सानफोर",
+    "month_one": "दान",
+    "month_other": "दानफोर",
+    "year_one": "बोसोर",
+    "year_other": "बोसोरफोर",
+    "secondWithCount": "{{count}} $t(time.second, {\"count\":{{count}}})",
+    "minuteWithCount": "{{count}} $t(time.minute, {\"count\":{{count}}})",
+    "hourWithCount": "{{count}} $t(time.hour, {\"count\":{{count}}})",
+    "dayWithCount": "{{count}} $t(time.day, {\"count\":{{count}}})",
+    "monthWithCount": "{{count}} $t(time.month, {\"count\":{{count}}})",
+    "yearWithCount": "{{count}} $t(time.year, {\"count\":{{count}}})"
+  },
+
+  "elapsedTime": {
+    "second_one": "{{count}} सेकेण्ड सिगां",
+    "second_other": "{{count}} सेकेण्डफोर सिगां",
+    "minute_one": "{{count}} मिनिट सिगां",
+    "minute_other": "{{count}} मिनिटफोर सिगां",
+    "hour_one": "{{count}} घण्टा सिगां",
+    "hour_other": "{{count}} घण्टाफोर सिगां",
+    "day_one": "{{count}} सान सिगां",
+    "day_other": "{{count}} सानफोर सिगां",
+    "month_one": "{{count}} दान सिगां",
+    "month_other": "{{count}} दानफोर सिगां",
+    "year_one": "{{count}} बोसोर सिगां",
+    "year_other": "{{count}} बोसोरफोर सिगां"
+  },
+
+  "month": {
+    "january": "जानुवारि",
+    "february": "फेब्रुवारि",
+    "march": "मार्च",
+    "april": "एप्रिल",
+    "may": "मे",
+    "june": "जुन",
+    "july": "जुलाइ",
+    "august": "आगष्ट",
+    "september": "सेप्टेम्बर",
+    "october": "अक्टबर",
+    "november": "नभेम्बर",
+    "december": "डिसेम्बर"
+  },
+
+  "data": {
+    "byteWithCount_one": "{{count}} बाइट",
+    "byteWithCount_other": "{{count}} बाइटफोर"
+  },
+
+  "sideBar": {
+    "home": "ह'म",
+    "search": "नागिर"
+  },
+
+  "renamePlaylistPrompt": {
+    "renamePlaylistWithName": "`{{name}}` प्लेलिष्टनि मुं सोलाय",
+    "playlistName": "प्लेलिष्टनि मुं"
+  },
+
+  "newPlaylistPrompt": {
+    "addPlaylistSuccess": "प्लेलिष्ट मोजाङै दाजाबबाय।",
+    "playlistNameEmpty": "प्लेलिष्टनि मुं नांगौ",
+    "addNewPlaylist": "गोदान प्लेलिष्ट दाजाब"
+  },
+
+  "confirmDeletePlaylistsPrompt": {
+    "playlistsDeletedWithCount": "$t(common.playlistWithCount, {\"count\":{{count}}}) डिलिट खालामबाय।",
+    "confirmPlaylistDeleteWithCount": "$t(common.playlistWithCount, {\"count\":{{count}}}) डिलिट खालामनो थि खालाम",
+    "message_one": "बे प्लेलिष्टखौ डिलिट खालामनाया मेथाइफोरनि सोमोन्दोखौ बोखारगोन। नोङो बे प्लेलिष्टखौ फिन मोनफिननाय नङा।",
+    "message_other": "बे प्लेलिष्टफोरखौ डिलिट खालामनाया मेथाइफोरनि सोमोन्दोखौ बोखारगोन। नोङो बे प्लेलिष्टफोरखौ फिन मोनफिननाय नङा।",
+    "modificationNotice": "बे हाबाया बे फाइलफोरखौ सोलायगोन: "
+  },
+
+  "resetAppConfirmationPrompt": {
+    "confirmAppReset": "एप रिसेट थि खालाम",
+    "message": "एप रिसेट खालामनाया गासै इउजार डाटा, मेथाइ, मोजां मोननाय, पसन्दफोर, सेटिंस गासैखौबो बोखारगोन, नाथाय मेथाइफोरखौ बोखारनाय नङा। बे हाबाखौ <span>फिन खालामफिननो हानाय नङा</span>।",
+    "restartAfterReset": "रिसेटनि उनाव नोरा-या फिन-खेवगोन।",
+    "systemPlaylistsRemovalProhibited": "नोङो जारिमिन एबा मोजां मोननाय बादि प्लेलिष्टखौ बोखारनो हानाय नङा।"
+  },
+
+  "addSongsToPlaylistsPrompt": {
+    "songsAddedToPlaylists": "$t(common.songWithCount, {\"count\":{{count}}}) खौ $t(common.playlistWithCount, {\"count\":{{playlistCount}}}) आव दाजाबबाय",
+    "selectPlaylistsToAdd": "$t(common.songWithCount, {\"count\":{{count}}}) दाजाबन प्लेलिष्ट सायख",
+    "duplicationNotice": "बांसिन मेथाइ दाजाबनाय समाव, सिगांनिफ्रायनो थानाय मेथाइफोरखौ नेवसिगोन।"
+  },
+
+  "blacklistSongConfirmPrompt": {
+    "title": "लाइब्रेरिनिफ्राय $t(common.songWithCount, {\"count\":{{count}}}) ब्लक खालामनो थि खालाम",
+    "message_one": "नोङो बे मेथाइखौ लाइब्रेरिनिफ्राय ब्लक खालामनो नागिरदों। नोङो राइट-क्लिक खालामना '$t(song.deblacklist)' आव थुना फिन लाबोफिननो हागोन। नोन्नि डाटाया बे हाबानि थाखाय गाज्रि जानाय नङा।",
+    "message_other": "नोङो बे मेथाइफोरखौ लाइब्रेरिनिफ्राय ब्लक खालामनो नागिरदों। नोङो राइट-क्लिक खालामना '$t(song.deblacklist)' आव थुना फिन लाबोफिननो हागोन। नोन्नि डाटाया बे हाबानि थाखाय गाज्रि जानाय नङा।",
+    "effectTitle": "मेथाइ ब्लक खालामनाया मा खालामो",
+    "effect1": "लाइब्रेरियाव '<span/>' सिनजों रोमो-रोमो नुजागोन।",
+    "effect2": "अटोमेटिक क्यु-आव दाजाबनाय नङा, <span>'$t(common.shuffleAndPlay)'</span> एबा <span>'$t(common.playAll)'</span> खालामब्लाबो, जेब्लासिम नोङो गाव दाजाबा।",
+    "effect3": "दाबल-क्लिक एबा <span>'$t(common.play)'</span> बा <span>'$t(common.playNext)'.</span> बाहायना प्ले खालामनो हागोन।",
+    "songsBlacklisted": "$t(common.songWithCount, {\"count\":{{count}}}) ब्लक खालामबाय आरो लाइब्रेरिनिफ्राय बोखारबाय"
+  },
+
+  "blacklistFolderConfirmPrompt": {
+    "title": "लाइब्रेरिनिफ्राय $t(common.folderWithCount, {\"count\":{{count}}}) ब्लक खालामनो थि खालाम",
+    "message_one": "नोङो बे फल्डारखौ ब्लक खालामनो नागिरदों। नोङो फल्डार पेजनिफ्राय '$t(song.deblacklist)' सायखना फिन लाबोफिननो हागोन। नोन्नि डाटाया बे हाबानि थाखाय गाज्रि जानाय नङा।",
+    "message_other": "नोङो बे फल्डारफोरखौ ब्लक खालामनो नागिरदों। नोङो फल्डार पेजनिफ्राय '$t(song.deblacklist)' सायखना फिन लाबोफिननो हागोन। नोन्नि डाटाया बे हाबानि थाखाय गाज्रि जानाय नङा।",
+    "effectTitle": "फल्डार ब्लक खालामनाया मा खालामो",
+    "effect1": "लाइब्रेरियाव '<span/>' सिनजों रोमो-रोमो नुजागोन।",
+    "effect2": "बे फल्डारनि मेथाइफोरखौबो ब्लक खालामगोन।",
+    "effectTitle2": "ब्लक फल्डारनि मेथाइफोरा मा जायो",
+    "folderBlacklisted": "$t(common.folderWithCount, {\"count\":{{count}}}) ब्लक खालामबाय।"
+  },
+
+  "deleteSongFromSystemConfirmPrompt": {
+    "title_one": "सिस्टेमनिफ्राय `{{title}}` डिलिट खालाम",
+
+    "title_other": "सिस्टेमनिफ्राय $t(common.songWithCount, {\"count\":{{count}}}) डिलिट खालाम",
+    "permanentlyDeleteFromSystem": "सिस्टेमनिफ्राय एखेबारे डिलिट खालाम",
+    "message_one": "जुदि नोङो '$t(deleteSongFromSystemConfirmPrompt.permanentlyDeleteFromSystem)' सायखयो, नोङो बे मेथाइखौ सिस्टेमनिफ्राय गोमागोन आरो फिन मोनफिननो हानाय नङा।",
+    "message_other": "जुदि नोङो '$t(deleteSongFromSystemConfirmPrompt.permanentlyDeleteFromSystem)' सायखयो, नोङो बे मेथाइफोरखौ सिस्टेमनिफ्राय गोमागोन आरो फिन मोनफिननो हानाय नङा।",
+    "modificationNotice": "बे हाबाया बे फाइलफोरखौ सोलायगोन:",
+    "deleteSong": "मेथाइ डिलिट खालाम",
+    "songPermanentlyDeleted": "$t(common.songWithCount, {\"count\":{{count}}}) सिस्टेमनिफ्राय बोखारबाय।",
+    "songMovedToBin": "$t(common.songWithCount, {\"count\":{{count}}}) रिसाइकल बिनाव दैथायबाय।"
+  },
+
+  "addMusicFoldersPrompt": {
+    "title": "दाजाबन फल्डार सायख",
+    "emptyMessage1": "नोङो जेबो फल्डार सायखाखै।",
+    "emptyMessage2": "नोन्नि सिस्टेमनिफ्राय फल्डार सायख, आरो बेयाव नुजागोन जाहाथे नोङो कास्टमाइस खालामनो हायो।",
+    "chooseFolders": "फल्डार सायख",
+    "addSelectedFolders": "सायख जानाय फल्डार दाजाब",
+    "noFoldersSelected": "जेबो फल्डार सायखाखै। (मोनसे पेरेन्ट फल्डार थानांगोन)"
+  },
+
+  "removeFolderConfirmationPrompt": {
+    "title": "`{{folderName}}` फल्डार बोखारनो थि खालाम",
+    "message": "नोङो बे फल्डारखौ मिउजिक लाइब्रेरिनिफ्राय बोखारनो थि खालामबाय नामा? बेयो गासै डाटा आरो मेथाइ डाटाखौ लाइब्रेरिनिफ्राय बोखारगोन। सिस्टेमनि फाइलफोरा जेबो जानाय नङा।",
+    "removeFolder": "फल्डार बोखार"
+  },
+
+  "lyricsEditorHelpPrompt": {
+    "title": "नोरा-नि लिरिकस एडिटार माबोरै बाहायनांगौ",
+    "subTitle1": "एडिटार माबोरै बाहायजेननांगौ?",
+    "subTitle1Message": " <ol><li>नोङो सुद्रायनो गोनां मेथाइखौ प्ले खालाम। (जुदि नोङो गेलेट मेथाइआव दं, एपा लिरिकस सारिआव गाज्रि मेटाडाटा दाजाबनायखौ होबथागोन।)</li><li>पेजाव फकास मोननो पेज एरिया-आव क्लिक खालाम। (सर्टकाट खामानि मावनो पेज फकास नांगौ।)</li><li>मेथाइखौ जागायजेननायनिफ्राय प्ले खालाम। जुदि बांसिन कन्ट्रल नांगौ, मेथाइखौ रिपिट खालाम।</li><li>जेब्ला मेथाइनि सोदोबा लिरिकस सारिखौ बुङो, <ShortcutButton>$t(appShortcutsPrompt.enterKey)</ShortcutButton> थुना उननि सारिखौ हाइलाइट खालाम आरो जागायनाय समखौ दाजाब।</li><li>जोबथा लिरिकस सारिसिम खालामबाय था।</li></ol>",
+    "subTitle2": "लिरिकस एडिटाराव मा मा कि-बर्ड सर्टकाट बाहायनो हागोन?",
+    "subTitle2Message": "लिरिकस एडिटाराव बाहायनो हानाय सर्टकाटफोरखौ नायनो <Button>सर्टकाट प्रम्पट</Button> आव थां।",
+    "subTitle3": "आं लिरिकस सारि एगारबाय?",
+    "subTitle3Message": "<ol><li>मेथाइखौ पज खालाम।</li><li>नांगौ जानाय लिरिकस सारिखौ नागिर।</li><li>सारिनि गाहायाव थानाय <ShortcutButton>एडिट</ShortcutButton> बुथाम थु आरो सुद्राय।</li><li>सुद्रायखांनायनि उनाव, फोजोबनो <ShortcutButton>$t(lyricsEditingPage.finishEditing)</ShortcutButton> क्लिक खालाम।</li></ol>",
+    "subTitle4": "आं गाज्रि सारिआव गाज्रि डाटा दाजाबबाय?"
+  },
+
+  "lyricsEditorSavePrompt": {
+    "lyricsUpdateSuccess": "लिरिकस मोजाङै आपडेट जाबाय।",
+    "saveEditedLyrics": "सुद्रायनाय लिरिकस सेब खालाम",
+    "copyLyrics": "लिरिकस कपि खालाम",
+    "saveLyricsToSong": "लिरिकसखौ मेथाइआव सेब खालाम",
+    "saveLyricsNotSupported": "नोरा-या '{{format}}' अडिअ फरमेटआव लिरिकस सेब खालामनायखौ सापर्ट खालामा।",
+    "saveLyricsFormatInfo": "* लिरिकसखौ <Hyperlink>LRC फरमेट</Hyperlink> आव सेब खालामो।",
+    "readAboutLrcFormat": "LRC फरमेटनि सोमोन्दै गोबां फराय"
+  },
+
+  "lyricsEditorSettingsPrompt": {
+    "lyricsEditorSettings": "लिरिकस एडिटार सेटिंस",
+    "editNextAndCurrentStartAndEndTagsAutomaticallyDescription": "दा थानाय लिरिकस सारिनि जोबनाय सम टेगखौ सुद्रायनाय समाव उननि सारिनि जागायनाय सम टेगखौ अटोमेटिक सोलाय।",
+    "editNextAndCurrentStartAndEndTagsAutomatically": "उननि सारिनि जागायनाय टेगखौ दा थानाय सारिनि जोबनाय टेगजों अटोमेटिक सुद्राय।",
+    "lyricOffsetInputDescription": "लिरिकस सारि अटोमेटिक सुद्रायनाय समाव दाजाबन नेगेटिभ एबा पजिटिभ अफसेट सायख।",
+    "lyricOffsetInput": "अफसेट (+ एबा -)"
+  },
+
+  "pageFocusPrompt": {"pageNotFocused": "पेज फकास गैया।"},
+
+  "releaseNotesPrompt": {
+    "latestVersion": "नोन्निआव गोदानसिन भारसन दं।",
+    "oldVersion": "<br/><span>नोन्निआव गोदानसिन भारसन गैया।</span> <Hyperlink>दानो आपडेट खालाम</Hyperlink>",
+    "outdatedChangelogNotice": "नोङो गोजाम चेनज-लग नायगासिनो दं जानो हागौ।",
+    "versionCheckError": "<br/><span>गोदान आपडेट नायनो हायाखिसै। जोंनि बेयाव माबा गोरोन्थि जादों।<div>$t(releaseNotesPrompt.outdatedChangelogNotice)</div></span>",
+    "versionCheckNetworkError": "<br/><span> जों गोदान आपडेट नायनो हायाखिसै। इन्टरनेट कनेक्सन नाय आरो फिन नाजा।<div>$t(releaseNotesPrompt.outdatedChangelogNotice)</div></span>",
+    "noraReleases": "नोरा रिलिसफोर",
+    "changelog": "चेनज-लग",
+    "doNotRemindThisVersionUpdate": "बे एप भारसननि सोमोन्दै फिन गोसोखांहोनाङा।",
+    "current": "दा चलिबाय थानाय",
+    "latest": "गोदानसिन",
+    "newFeaturesAndUpdates": "गोदान फिचार आरो आपडेटफोर",
+    "fixesAndImprovements": "फिकसेस आरो इम्प्रुभमेन्टफोर",
+    "issuesAndBugs": "मिथिखानाय इसु आरो बगफोर",
+    "developerUpdates": "डेभेलपार आपडेटफोर"
+  },
+
+  "appShortcutsPrompt": {
+    "inAppShortcuts": "इन-एप सर्टकाटफोर",
+
+    "mediaPlayback": "मिडिया प्लेबेक",
+    "playPause": "प्ले / पज",
+    "toggleMute": "मियुट टगल खालाम",
+    "nextSong": "उननि मेथाइ",
+    "prevSong": "सिगांनि मेथाइ",
+    "tenSecondsForward": "१० सेकेण्ड सिगांथिं",
+    "tenSecondsBackward": "१० सेकेण्ड उनथिं",
+    "upVolume": "भलिउम बाराय",
+    "downVolume": "भलिउम खमाय",
+    "toggleShuffle": "क्यु साफल टगल खालाम",
+    "toggleRepeat": "क्यु रिपिट टगल खालाम",
+    "toggleFavorite": "मोजां मोननाय टगल खालाम",
+    "upPlaybackRate": "प्लेबेक रेट ०.०५x बाराय",
+    "downPlaybackRate": "प्लेबेक रेट ०.०५x खमाय",
+    "resetPlaybackRate": "प्लेबेक रेट १x आव रिसेट खालाम",
+
+    "navigation": "नेभिगेसन",
+    "goHome": "ह'म-आव थां",
+    "goBack": "उनथिं थां",
+    "goForward": "सिगांथिं थां",
+    "openMiniPlayer": "मिनि प्लेयार खेव",
+    "goToLyrics": "लिरिकसआव थां",
+    "goToQueue": "दानि क्यु-आव थां",
+    "goToSearch": "नागिरनायाव थां",
+
+    "selections": "सायखनायफोर",
+    "selectMultipleItems": "गोबां बुस्तु सायख",
+
+    "lyrics": "लिरिकस",
+    "playNextLyricsLine": "उननि लिरिकस सारि प्ले खालाम",
+    "playPrevLyricsLine": "सिगांनि लिरिकस सारि प्ले खालाम",
+
+    "lyricsEditor": "लिरिकस एडिटार",
+    "selectNextLyricsLine": "उननि लिरिकस सारि सायख",
+    "selectPrevLyricsLine": "सिगांनि लिरिकस सारि सायख",
+    "selectCustomLyricsLine": "कास्टम लिरिकस सारि सायख",
+
+    "otherShortcuts": "गुबुन सर्टकाटफोर",
+    "toggleTheme": "एप थिम टगल खालाम",
+    "toggleMiniPlayerAlwaysOnTop": "मिनि प्लेयार जेब्लाबो गोजौआव टगल खालाम",
+    "reload": "रिलड",
+    "openDevtools": "डेभटुल खेव",
+    "openAppShortcutsPrompt": "एप सर्टकाट प्रम्पट खेव",
+
+    "enterKey": "एन्टार",
+    "spaceKey": "स्पेस",
+    "ctrlKey": "Ctrl",
+    "shiftKey": "Shift",
+    "altKey": "Alt",
+    "homeKey": "Home",
+    "rightArrowKey": "Right arrow",
+    "leftArrowKey": "Left arrow",
+    "upArrowKey": "Up arrow",
+    "downArrowKey": "Down arrow",
+
+    "mouseClick": "माउस क्लिक",
+    "doubleClick": "दाबल-क्लिक"
+  },
+
+  "clearLocalStoragePrompt": {
+    "title": "लकेल स्टरेज डाटा सुस्रांनो थि खालाम",
+    "description": "बे हाबाया नोरा-नि गाज्रि लकेल स्टरेज डाटाखौ सुस्रांगोन आरो डिफल्ट सेटिंसआव लाबोफिनगोन।",
+    "effect": "<p>बे हाबाया बे डाटाफोरखौ सोलायगोन: </p><ul><li>नोरा-नि गोबां पसन्द सेटिंस</li><li>प्लेबेक सेटिंस जेरै दा चलिबाय थानाय मेथाइ, भलिउम बायदि।</li><li>दानि क्यु डाटा</li><li>नेवसिनाय सुबुं डाटा जेरै फिचारिं आर्टिष्ट, आलादा आर्टिष्ट आरो डुप्लिकेट</li><li>पेज साजायनाय डाटा</li><li>इकुवेलाइजर डाटा</li><li>लिरिकस एडिटार सेटिंस</li></ul>",
+    "restartNotice": "नोरा-या फिन-खेवगोन।"
+  },
+
+  "musixmatchDisclaimerPrompt": {
+    "title": "डिस्क्लेइमार - Musixmatch लिरिकस",
+    "message": "<li> Musixmatch लिरिकसखौ बे सफ्टवेरावन नायबिजिरनो दाजाबनाय जादों आरो जेब्लाखि बोखारनो हागौ।</li><li>नोरा-या Musixmatch लिरिकस एबा बेनि अफिसजों जेबो सोमोन्दो गैया।</li><li>बे एपनि डेभेलपारफोरा इउजारफोरखौ बे फिचारखौ मोजाङै बाहायनो खावलायदों, Musixmatch लिरिकसनि कपिराइट मानिनानै।</li>",
+    "implementationNotice": "Fashni नि <Hyperlink/> निफ्राय लाबोनाय।",
+    "hyperlinkTitle": "MxLRC गिटहब रिप",
+    "contactAboutComplaints": "जुदि नोन्नि जेबो अजत दं, नोङो नोरा डिस्करड सर्भार, एबा आंनि <Hyperlink>इ-मेइल्या</Hyperlink> जों कण्टेक्ट खालामनो हागोन।"
+  },
+
+  "musixmatchSettingsPrompt": {
+    "title": "Musixmatch सेटिंस",
+    "message": "<li>Musixmatch खौ सर्भिस होनो इउजार टकेन नांगौ।</li><li>Musixmatch आ माब्लाबा लिरिकस दिन्थिनो फेल जायो जुदि एखे टकेनखौ गोबाव बाहायो।</li><li>गोदान Musixmatch टकेन मोननो <Hyperlink>Spicetify Wiki</Hyperlink> नि नियम मानि।</li>",
+    "showToken": "टकेन दिन्थि",
+    "hideToken": "टकेन खोबथे",
+    "updateToken": "टकेन आपडेट खालाम",
+    "tokenUpdateSuccess": "टकेन मोजाङै आपडेट जाबाय।",
+    "tokenUpdateFailed": "टकेन आपडेट खालामनो हायाखिसै।",
+    "tokenMissingCharacters": "TOKEN आ ५४ हांखोनि स्ट्रिं जानांगोन। ({{count}} हांखो नांबावगौ)।",
+    "tokenIncorrectCharacters": "TOKEN आव खालि अल्फा-निउमेरिक हांखो थानांगोन।",
+    "savedTokenAvailableMessage": "<Title><span/> सेब खालामनाय टकेन दं।</Title><p> नोरा-आव सिगांनिफ्रायनो सेब खालामनाय Musixmatch टकेन दं।</p> <p> सर्भिस मोजाङै खामानि मावाखैब्लासो टकेन सोलाय।</p>"
+  },
+
+  "customizeSelectedMetadataPrompt": {
+    "selected": "सायख जानाय",
+    "select": "सायख",
+    "title": "`{{title}}` नि थाखाय डाउनलड मेटाडाटा कास्टमाइस खालाम",
+    "selectArtwork": "आर्टवर्क सायख",
+    "noArtworksFound": "जेबो आर्टवर्क मोनाखिसै",
+    "customizeOtherMetadata": "गुबुन मेटाडाटा कास्टमाइस खालाम",
+    "syncedLyricsAvailable": "सिन्क्रनाइस लिरिकस दं",
+    "unsyncedLyricsAvailable": "आनसिन्क्रनाइस लिरिकस दं",
+    "addOnlySelected": "खालि सायखनायखौ दाजाब",
+    "addAll": "गासै दाजाब"
+  },
+
+  "resetTagsToDefaultPrompt": {
+    "changed": "सोलायनाय",
+    "title": "मेथाइ डाटा डिफल्टआव रिसेट खालामनाय सिगां थि खालाम",
+    "description": "नोङो मेथाइ डाटा रिसेट खालामनो थि खालामबाय नामा? नोङो बे स्क्रिनाव सुद्रायनाय डाटाखौ गोमागोन।",
+    "resetToDefault": "डिफल्टआव रिसेट खालाम"
+  },
+
+  "songMetadataResultSelectPrompt": {
+    "title": "<span/> जों सोमोन्दो थानाय फिथाय"
+  },
+
+  "errorPrompt": {
+    "title": "माबा गोरोन्थि जादों",
+    "sendErrorInfo": "अननानै एपखौ मोजां खालामनो <Hyperlink1>फिडबेक</Hyperlink1> हर एबा गिटहबाव <Hyperlink2>इसु बानाय</Hyperlink2>।"
+  },
+
+  "openLinkConfirmPrompt": {
+    "description": "नोङो मोनसे लिंक खेवनो नागिरदों जाय <span/> सिम लांगोन।<br/> बे लिंकखौ नोन्नि डिफल्ट ब्राउजाराव खेवगोन।",
+    "doNotVerifyLink": "लिंक खेवनाय समाव दा नायबिजिर।",
+    "openLink": "लिंक खेव"
+  },
+
+  "songUnplayableErrorPrompt": {
+    "title": "मेथाइ प्ले खालामनो हायाखिसै",
+    "description": "जों बे मेथाइखौ प्ले खालामनो हायाखिसै। अननानै नाय मेथाइया सिस्टेमाव दं नामा आरो एपा मोनदों नामा।"
+  },
+
+  "unsupportedFileMessagePrompt": {
+    "title": "सापर्ट नङै अडिअ फाइल",
+    "description": "नोङो <span/> एक्सटेन्सननि फाइल खेवनो नागिरदों, जायखौ एपा सापर्ट खालामा।<br/> दा, जों बे अडिअ फरमेटफोरखौ सापर्ट खालामो। <div/>"
+  },
+
+  "duplicateArtistsSuggestion": {
+    "message": "<div><p><span/> आ एखे आर्टिष्ट नामा?</p><p>जुदि जायो, नोङो बिसोरखौ मोनसे आर्टिष्टआव लिंक खालामनो हागोन, एबा नोङो बे सुबुंखौ नेवसिनो हागोन।</p></div>",
+    "linkToArtist": "{{name}} आव लिंक खालाम"
+  },
+
+  "separateArtistsSuggestion": {
+    "message": "<div><p><span/> आ {{count}} आलादा आर्टिष्ट नामा?</p><p>जुदि जायो, नोङो बिसोरखौ आलादा आर्टिष्ट हिसाबै साजायनो हागोन, एबा नोङो बे सुबुंखौ नेवसिनो हागोन।</p></div>",
+    "separateAsArtists": "{{count}} आर्टिष्ट हिसाबै आलादा खालाम"
+  },
+
+  "featArtistsSuggestion": {
+    "message_one": "<p><span/> आ बे मेथाइनि फिचारिं आर्टिष्ट नामा?</p><p>जुदि जायो, नोङो बे आर्टिष्टखौ मेथाइनि आर्टिष्ट हिसाबै दाजाबन हागोन, एबा नोङो बे सुबुंखौ नेवसिनो हागोन।</p>",
+    "message_other": "<p><span/> आ {{count}} आर्टिष्टफोरा बे मेथाइनि फिचारिं आर्टिष्ट नामा?</p><p>जुदि जायो, नोङो बे आर्टिष्टफोरखौ मेथाइनि आर्टिष्ट हिसाबै दाजाबन हागोन, एबा नोङो बे सुबुंखौ नेवसिनो हागोन।</p>",
+    "featArtistsTitleReset": "आर्टिष्ट दाजाबनाय उनाव मेथाइ बिमुंनिफ्राय फिचारिं आर्टिष्ट खौरां बोखार।",
+    "addArtistsToSong": "$t(common.artistWithCount, {\"count\":{{count}}}) खौ मेथाइआव दाजाब",
+    "editInMetadataEditingPage": "मेटाडाटा सुद्रायनाय पेजाव सुद्राय",
+    "modificationNotice": "गोसोआव लाखि फिचारिं आर्टिष्ट दाजाबनाया लाइब्रेरि मेथाइ डाटा आरो मेथाइ मेटाडाटाखौ आपडेट खालामगोन।"
+  },
+
+  "biography": {
+    "readMore": "बांसिन फराय...",
+    "readMoreInLastFm": "LastFM आव बांसिन फराय",
+    "aboutName": "<span/> नि सोमोन्दै",
+    "goToTagInLastFm": "LastFM आव {{name}} टेग सिम थां"
+  },
+
+  "notifications": {
+    "clearAll": "गासै सुस्रां",
+    "playingNext": "`{{title}}` आ उननि प्ले जागोन।",
+    "songBlacklisted": "`{{title}}` आ ब्लक जाबाय।",
+    "playingNextSongsWithCount": "$t(common.songWithCount, {\"count\":{{count}}}) आ उननि प्ले जागोन।",
+    "addedToQueue": "क्यु-आव $t(common.songWithCount, {\"count\":{{count}}}) दाजाबबाय",
+    "suggestionIgnored": "सुबुं नेवसिबाय।",
+    "songRestoreSuccess": "मेथाइ मोजाङै लाबोफिनबाय।",
+    "songDataUpdateFailed": "मेथाइ डाटा आपडेट फेल जाबाय।",
+    "noSongDataEdits": "नोङो जेबो मेथाइ डाटा सोलायाखै।",
+    "selectASongToPlay": "प्ले खालामनो मेथाइ सायख",
+    "alreadyInPage": "नोङो दा थानाय पेजाव दं।",
+    "playbackRateChanged": "प्लेबेक रेटखौ {{val}} x सिम सोलायबाय",
+    "playbackRateReset": "प्लेबेक रेटखौ १x सिम रिसेट खालामबाय",
+    "playbackPausedDueToSongDeletion": "मेथाइ डिलिट जानायखाय दा चलिबाय थानाय मेथाइ पज जाबाय।",
+    "languageChanged": "एप रावखौ मोजाङै सोलायबाय।"
+  },
+
+  "backend": {
+    "RESYNC_SUCCESSFUL": "लाइब्रेरि रि-सिन्क जाबाय।",
+    "RESET_SUCCESSFUL": "एप मोजाङै रिसेट जाबाय, दा फिन-खेवगासिनो।",
+    "RESET_FAILED": "एप रिसेट खालामनो हायाखिसै। एप रिलड जागासिनो।",
+    "APP_THEME_CHANGE": "सिस्टेम थिमखौ {{theme}} आव सोलायबाय",
+    "SONG_REMOVE_PROCESS_UPDATE": "{{total}} नि {{value}} मेथाइफोर बोखारबाय।",
+    "OPEN_SONG_IN_EXPLORER_FAILED": "मेथाइ फाइल एक्सप्ल'राराव खेवनो हायाखिसै मानोना लाइब्रेरियाव मेथाइ मोनाखिसै।",
+    "PENDING_METADATA_UPDATES_SAVED": "`{{title}}` नि मेटाडाटा आपडेट मोजाङै सेब खालामबाय।",
+    "METADATA_UPDATE_FAILED": "मेटाडाटा आपडेट फेल जाबाय। {{message}}",
+    "SONG_EXT_NOT_SUPPORTED_FOR_LYRICS_SAVES": "लिरिकस सेब खालामनो हायाखिसै मानोना मेथाइ एक्सटेन्सन ({{ext}}) आ मेटाडाटा सोलायनो सापर्ट खालामा।",
+    "LASTFM_LOGIN_SUCCESS": "LastFM आव मोजाङै लग-इन जाबाय।",
+    "AUDIO_PARSING_PROCESS_UPDATE": "{{total}} नि {{value}} मेथाइफोर जाबाय।",
+    "SONG_PALETTE_GENERATING_PROCESS_UPDATE": "{{total}} नि {{value}} मेथाइफोरनि थाखाय पेलेट दिहुनगासिनो।",
+    "GENRE_PALETTE_GENERATING_PROCESS_UPDATE": "{{total}} नि {{value}} रोखोमफोरनि थाखाय पेलेट दिहुनगासिनो।",
+    "LYRICS_FIND_FAILED": "जों `{{title}}` नि लिरिकस मोनाखिसै",
+    "LYRICS_TRANSLATION_SUCCESS": "लिरिकस मोजाङै ट्रांसलेट जाबाय",
+    "LYRICS_CONVERT_SUCCESS": "लिरिकस मोजाङै कनभार्ट जाबाय",
+    "RESET_CONVERTED_LYRICS_SUCCESS": "लिरिकस मोजाङै रिसेट जाबाय",
+    "LYRICS_TRANSLATION_FAILED": "लिरिकस ट्रांसलेट खालामनो फेल जाबाय",
+    "LYRICS_TRANSLATION_TO_SAME_SOURCE_LANGUAGE": "लिरिकसखौ एखे '{{language}}' रावाव ट्रांसलेट खालामनो रिकुएस्ट खालामदों",
+    "LYRICS_CONVERT_FAILED": "लिरिकस कनभार्ट खालामनो फेल जाबाय",
+    "RESET_CONVERTED_LYRICS_FAILED": "लिरिकस रिसेट खालामनो फेल जाबाय",
+    "MUSIC_FOLDER_DELETED": "`{{name}}` फल्डारखौ सिस्टेमनिफ्राय डिलिट खालामबाय। $t(common.songWithCount, {\"count\":{{count}}}) खौ लाइब्रेरिनिफ्राय बोखारगोन।",
+    "EMPTY_MUSIC_FOLDER_DELETED": "`{{name}}` फल्डारखौ सिस्टेमनिफ्राय डिलिट खालामबाय। जेबो मेथाइ मोनाखिसै। लाइब्रेरि जेबो जानाय नङा।",
+    "WHITELISTING_FOLDER_FAILED_DUE_TO_BLACKLISTED_PARENT_FOLDER": "`{{folderName}}` फल्डारखौ हगारनो हायाखिसै मानोना बेनि पेरेन्ट फल्डार '{{parentFolderName}}' आ ब्लक जाना दं। पेरेन्ट फल्डारखौ हगारग्रो।",
+    "WHITELISTING_SONG_FAILED_DUE_TO_BLACKLISTED_DIRECTORY": "'{{songName}}' खौ हगारनो हायाखिसै मानोना डाइरेक्टरि '{{directoryName}}' आ ब्लक जाना दं। डाइरेक्टरिखौ हगारग्रो।",
+    "SONG_WHITELISTED": "$t(common.songWithCount, {\"count\":{{count}}}) खौ ब्लकनिफ्राय लाबोफिनबाय।",
+    "ARTWORK_SAVED": "आर्टवर्कखौ सेब खालामबाय।",
+    "DESTINATION_NOT_SELECTED": "सेब खालामनो जायगा सायखाखै।",
+    "ARTWORK_SAVE_FAILED": "आर्टवर्क सेब खालामनो हायाखिसै।",
+    "PLAYBACK_FROM_UNKNOWN_SOURCE": "नोङो लाइब्रेरिनि बायजोनिफ्राय मेथाइ प्ले खालामगासिनो।",
+    "ARTIST_DISLIKE": "`{{name}}` खौ मोजां मोननायनिफ्राय बोखारबाय।",
+    "ARTIST_LIKE": "`{{name}}` खौ मोजां मोननायाव दाजाबबाय।",
+    "SONG_DISLIKE": "`{{name}}` खौ मोजां मोननायनिफ्राय बोखारबाय।",
+    "SONG_LIKE": "`{{name}}` खौ मोजां मोननायाव दाजाबबाय।",
+    "SONG_DELETED": "`{{name}}` मेथाइखौ सिस्टेमनिफ्राय डिलिट खालामबाय।",
+    "FOLDER_PARSED_FOR_DIRECTORIES": "$t(folder.directoryCount, {\"count\":{{count}}}) खौ $t(folder.selectedFolderCount, {\"count\":{{folderCount}}}) आव मोनबाय।",
+    "NO_MORE_SONG_PALETTES": "मेथाइफोरनि थाखाय पेलेट गैया।",
+    "NO_MORE_GENRE_PALETTES": "रोखोमफोरनि थाखाय पेलेट गैया।",
+    "PARSE_FAILED": "मेथाइखौ लाइब्रेरियाव दाजाबनो नाजानाय समाव `{{name}}` आ फेल जाबाय। लाइब्रेरि रि-सिन्क खालामनो सेटिंसआव थां।",
+    "PARSE_SUCCESSFUL": "`{{name}}` मेथाइखौ लाइब्रेरियाव दाजाबबाय।",
+    "LYRICS_SAVE_QUEUED": "`{{title}}` नि लिरिकस अटोमेटिक सेब जागोन।",
+    "LYRICS_SAVED_IN_LRC_FILE": "`बे '{{ext}}' एक्सटेन्सननि मेथाइनि लिरिकसखौ LRC फाइलाव सेब खालामगोन।",
+    "PENDING_LYRICS_SAVED": "`{{title}}` नि लिरिकस मोजाङै सेब खालामबाय।",
+    "ADDED_SONGS_TO_PLAYLIST": "$t(common.songWithCount, {\"count\":{{count}}}) खौ `{{name}}` आव मोजाङै दाजाबबाय।",
+    "APPDATA_IMPORT_STARTED": "एप डाटा इम्पर्ट खालामनो जागायबाय। नेथ'...",
+    "APPDATA_IMPORT_SUCCESS": "एप डाटा मोजाङै इम्पर्ट खालामबाय।",
+    "APPDATA_IMPORT_SUCCESS_WITH_PENDING_RESTART": "$t(backend.APPDATA_IMPORT_SUCCESS) ५ सेकेण्डआव एप फिन-खेवगासिनो।",
+    "APPDATA_IMPORT_FAILED": "एप डाटा इम्पर्ट खालामनो हायाखिसै।",
+    "APPDATA_IMPORT_FAILED_DUE_TO_MISSING_FILES": "$t(backend.APPDATA_IMPORT_FAILED) सायखनाय फल्डाराव फाइल गैया।",
+    "APPDATA_EXPORT_STARTED": "एप डाटा एक्सपर्ट खालामनो जागायबाय। नेथ'...",
+    "APPDATA_EXPORT_SUCCESS": "एप डाटा मोजाङै एक्सपर्ट खालामबाय।",
+    "APPDATA_EXPORT_FAILED": "एप डाटा एक्सपर्ट खालामनाय समाव गोरोन्थि जादों।",
+    "PLAYLIST_EXPORT_SUCCESS": "`{{name}}` प्लेलिष्ट मोजाङै एक्सपर्ट खालामबाय।",
+    "PLAYLIST_EXPORT_FAILED": "`{{name}}` प्लेलिष्ट एक्सपर्ट खालामनाय समाव गोरोन्थि जादों।",
+    "PLAYLIST_IMPORT_SUCCESS": "`{{name}}` प्लेलिष्ट मोजाङै इम्पर्ट खालामबाय।",
+    "PLAYLIST_IMPORT_FAILED": "प्लेलिष्ट इम्पर्ट खालामनो हायाखिसै।",
+    "PLAYLIST_IMPORT_FAILED_DUE_TO_SONGS_OUTSIDE_LIBRARY": "प्लेलिष्ट इम्पर्ट खालामनाय समाव $t(common.songWithCount, {\"count\":{{count}}}) लाइब्रेरिनि बायजोआव मोनबाय जाय सापर्ट खालामा।",
+    "PLAYLIST_IMPORT_FAILED_DUE_TO_INVALID_FILE_DATA": "गाज्रि फाइल डाटानि थाखाय प्लेलिष्ट इम्पर्ट खालामनो हायाखिसै।",
+    "PLAYLIST_IMPORT_FAILED_DUE_TO_INVALID_FILE_EXTENSION": "फाइल टाइप '.m3u8' नङैखाय प्लेलिष्ट इम्पर्ट खालामनो हायाखिसै।",
+    "PLAYLIST_IMPORT_TO_EXISTING_PLAYLIST": "$t(common.songWithCount, {\"count\":{{count}}}) खौ `{{name}}` प्लेलिष्टाव इम्पर्ट खालामबाय।",
+    "PLAYLIST_IMPORT_TO_EXISTING_PLAYLIST_FAILED": "मेथाइ इम्पर्ट खालामनाय समाव गोरोन्थि जादों।",
+    "PLAYLIST_CREATION_FAILED": "प्लेलिष्ट बानायनो हायाखिसै।",
+    "PLAYLIST_RENAME_SUCCESS": "प्लेलिष्ट मुं मोजाङै सोलायबाय।",
+    "PLAYLIST_NOT_FOUND": "प्लेलिष्ट मोनाखिसै।",
+    "SONG_REPARSE_SUCCESS": "`{{title}}` खौ मोजाङै फिन पार्स खालामबाय।",
+    "SONG_REPARSE_FAILED": "मेथाइ फिन पार्स खालामनाय समाव गोरोन्थि जादों।"
+  },
+
+  "discordrpc": {
+    "noraOnGitHub": "गिटहबाव नोरा",
+    "untitledSong": "बिमुं गोयै मेथाइ",
+    "unknownArtist": "मिथियै आर्टिष्ट",
+    "playingASong": "मेथाइ प्ले खालामगासिनो"
+  }
+}
